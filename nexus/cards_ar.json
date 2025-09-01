@@ -4,7 +4,9 @@
       "id": 483,
       "n": "الانتقال الموازي",
       "d": "(1) ضحِ بوحش ذهني 1 يملك مستوى؛ استدع بشكل خاص وحشًا ذهنيًا 1 من المستوى 7 أو أقل من مجموعتك أو مجموعتك الإضافية، ثم، إذا كان المستوى الأصلي لذلكما الوحشين مختلفين، فاخسر نقاط حياة مساوية للفرق × 1000. لا يمكنك استدعاء وحوش بشكل خاص في الدور الذي فعلت فيه هذه البطاقة، باستثثناء وحوش من نوع ذهني.\nيمكنك فقط تفعيل 1 \"الانتقال الموازي\" كل دور.",
-      "s": []
+      "s": [
+        "Tribute 1 Psychic monster with a Level; Special Summon 1 Level 7 or lower Psychic monster from your Deck or Extra Deck, then if the original Level of the Tributed monster is different from that of the Special Summoned monster on the field, you lose LP equal to the difference x 1000."
+      ]
     },
     {
       "id": 2511,
@@ -2613,7 +2615,8 @@
       "s": [
         "Send 1 \"Lunalight\" monster from your Deck to the GY.",
         "Discard 1 card?",
-        "Once this turn, if you Fusion Summon a \"Lunalight\" monster, you can also banish monsters from your GY as material."
+        "Once this turn, if you Fusion Summon a \"Lunalight\" monster, you can also banish monsters from your GY as material.",
+        "???"
       ]
     },
     {
@@ -2975,7 +2978,8 @@
       "n": "رمز التخزين المؤقت",
       "d": "عندما يعلن وحش الخصم عن هجوم مباشر، بينما تملك 3 وحوش إلكتروكوني أو أكثر في مقبرتك: ألغِ الهجوم، ثم، استدعِ بشكل خاص ما يصل إلى 3 \"رمز التخزين المؤقت\" (إلكتروكوني/ضوء/مستوى 1/هجوم 0/دفاع 0) في وضعية الدفاع. لا يمكن التضحية بتلك الرموز لاستدعاء بالتضحية.",
       "s": [
-        "Special Summon Tokens?"
+        "Special Summon up to 3 \"Spool Tokens\" (Cyberse/LIGHT/Level 1/ATK 0/DEF 0) in Defense Position?",
+        "Choose how many tokens to summon."
       ]
     },
     {
@@ -5331,7 +5335,8 @@
       "n": "كتاب المرهن",
       "d": "استهدف ما يصل إلى وحشين 2 يتحكم بهما خصمك؛ استبعدهما (حتى مرحلة النهاية)، ثم يكسب خصمك 1000 نقطة حياة لكل وحش غادر الملعب بهذا التأثير.",
       "s": [
-        "Select Monster to return to Field"
+        "Select Monster to return to Field",
+        "???"
       ]
     },
     {
@@ -6577,7 +6582,8 @@
       "s": [
         "Target 3 monsters your opponent controls with the same Type or Attribute as each other; Tribute 2 of those 3 face-up monsters, and if you do, the other gains ATK/DEF equal to the total ATK/DEF the Tributed monsters had on the field.",
         "Special Summon this card from your hand.",
-        "Add 1 \"D/D\" monster with 0 ATK or 0 DEF from your Deck to your hand."
+        "Add 1 \"D/D\" monster with 0 ATK or 0 DEF from your Deck to your hand.",
+        "???"
       ]
     },
     {
@@ -7306,7 +7312,9 @@
       "id": 6636319,
       "n": "صفقة كي-سيكل توأم★الشر",
       "d": "وحش 1 \"كي-سيكل\"\nيمكنك فقط استدعاء \"صفقة كي-سيكل توأم★الشر\" بالترابط مرة كل دور. يمكنك إرسال وحشًا 1 \"كي-سيكل\" من مجموعتك أو مجموعتك الإضافية إلى المقبرة؛ طبق هذا التأثير لبقية هذا الدور.\n● في كل مرة يُفَعل فيها خصمك بطاقة أو تأثيرًا ردًا على تفعيل تأثير وحش \"كي-سيكل\" أو \"لي-لا\" لك، اسحب بطاقة 1 بعد تنفيذه.\nيمكنك فقط استخدام هذا التأثير لـ\"صفقة كي-سيكل توأم★الشر\" مرة كل دور",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 6637331,
@@ -7332,7 +7340,9 @@
       "id": 6696168,
       "n": "بالون المرح",
       "d": "إذا عاركت هذه البطاقة وحشاً، فلا يمكن تدمير أي منهما في تلك المعركة.في كل مرة يعلن فيها وحش عن هجوم، تكسب هذه البطاقة 1000 نقطة هجوم. خلال مرحلتك الرئيسية: يمكنك جعل هذه البطاقة تخسر بالضبط 5000 نقطة هجوم، وإذا فعلت، فدمر كل البطاقات الأخرى في الملعب. يمكنك فقط استخدام هذا التأثير لـ\"بالون المرح\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Make this card lose exactly 5000 ATK, and if you do, destroy all other cards on the field."
+      ]
     },
     {
       "id": 6713443,
@@ -7422,7 +7432,9 @@
       "s": [
         "--",
         "Target 2 \"Ryzeal\" cards in your GY, except \"Ryzeal Cross\"; place them on the bottom of the Deck in any order, then draw 1 card.",
-        "Detach 1 material from a \"Ryzeal\" Xyz Monster you control, and if you do, negate that effect."
+        "Detach 1 material from a \"Ryzeal\" Xyz Monster you control, and if you do, negate that effect.",
+        "Detach 1 material from a \"Ryzeal\" Xyz Monster you control, and if you do, negate that effect?",
+        "Negate that effect."
       ]
     },
     {
@@ -7515,7 +7527,8 @@
       "d": "وحشان 2 أو أكثر من المستوى 9\nإذا كان سيتم تدمير هذه البطاقة، فيمكنك فصل مادة إكسيز 1 من هذه البطاقة بدلاً من ذلك. تكسب هذه البطاقة التأثيرات التالية اعتماداً على عناصر المواد المُرفقة بها.\n● نار: عندما تُعلن هذه البطاقة هجوماً على وحش للخصم بنقاط هجوم أعلى: فيمكنك جعل نقاط هجوم هذه البطاقة الضعف حتى نهاية خطوة الضرر.\n● ماء: مرة كل دور للخصم (تأثير سريع): يمكنك استهداف بطاقة 1 تتحكم بها؛ ألغِ أي بطاقة أو تأثير يفعله خصمك يستهدف تلك البطاقة هذا الدور.",
       "s": [
         "Make this card's ATK become double its current ATK until the end of the Damage Step.",
-        "Target 1 card you control; this turn, negate any card or effect activated by your opponent that targeted that card."
+        "Target 1 card you control; this turn, negate any card or effect activated by your opponent that targeted that card.",
+        "???"
       ]
     },
     {
@@ -8594,7 +8607,8 @@
       "n": "النشوة المألوفة",
       "d": "مرة كل دور: يمكنك استهداف وحش 1 تتحكم به؛ انقل ذلك الهدف إلى منطقة وحوشك الرئيسية الأخرى.",
       "s": [
-        "Move"
+        "Target 1 monster you control; move that target to another of your Main Monster Zones.",
+        "Target 1 monster you control."
       ]
     },
     {
@@ -8980,8 +8994,9 @@
       "n": "الشيطان الأحمر",
       "d": "يمكنك التضحية بوحش شيطان 1، استهدف وحش تزامن ظلام 1 نوع تنين في مقبرتك؛ استدعه بشكل خاص في وضعية الهجوم، لكن تُلغى تأثيراته. يمكنك نفي هذه البطاقة من مقبرتك، ثم استهدف وحش تزامن ظلام 1 من نوع تنين تتحكم به أعلن عن مستوى من 1 إلى 8؛ يصبح مستوى ذلك الوحش بذلك المستوى حتى نهاية هذا الدور. يمكنك فقط استعمال كل تأثير لـ \"الشيطان الأحمر\" مرة كل دور .",
       "s": [
-        "Special Summon",
-        "Change Level"
+        "Tribute 1 Fiend monster, then target 1 DARK Dragon Synchro Monster in your GY; Special Summon it in Defense Position, but negate its effects. ",
+        "Banish this card from your GY, then target 1 DARK Dragon Synchro Monster you control and declare a Level from 1 to 8; that monster becomes that Level until the end of this turn.",
+        "Declare a Level from 1 to 8."
       ]
     },
     {
@@ -10436,7 +10451,10 @@
       "id": 9627299,
       "n": "الأميرة سايوري إيشيكي",
       "d": "لا يمكن استدعاؤها بشكل خاص. (1) مرة كل دور، خلال مرحلة النهاية، إذا تم استدعاء هذه البطاقة بشكل عادي أو قلبت لتصبح مكشوفة هذا الدور: فأعد هذه البطاقة إلى اليد. يمكنك فقط استخدام كل من التأثيرين التاليين لـ\"الأميرة سايوري إيشيكي\" مرة كل دور. (2) إذا كنت تتحكم بوحش بـ 800 نقطة هجوم أو دفاع وهذه البطاقة في يدك، يمكنك: فورًا بعد تنفيذ هذا التأثير، استدع هذه البطاقة بشكل عادي. (3) إذا تم استدعاء هذه البطاقة بشكل عادي: فيمكنك إضافة وحش ظلام أو ضوء 1 من المستوى 4 وبـ 800 نقطة هجوم أو دفاع من مجموعتك إلى يدك، باستثناء \"الأميرة سايوري إيشيكي\".",
-      "s": []
+      "s": [
+        "???",
+        "???"
+      ]
     },
     {
       "id": 9627468,
@@ -12130,7 +12148,11 @@
       "id": 11161666,
       "n": "ساناكي، نصيرة الميكانكو",
       "d": "(1) يمكنك استهداف بطاقة 1 \"ميكانكو\" تتحكم بها؛ أعدها إلى اليد. (2) إذا جهز أي لاعب بطاقة(ـات) تجهيز لهذه البطاقة: فيمكنك استدعاء وحش 1 \"ميكانكو\" ليس من نوع وهمي بشكل خاص من مجموعتك، أيضا لا يمكنك الاستدعاء بشكل خاص من المجموعة الإضافية لبقية هذا الدور، باستثناء وحوش \"ميكانكو\". (3) إذا تم إرسال هذه البطاقة إلى المقبرة: فيمكنك استهداف وحش 1 مكشوف في الملعب؛ جهز هذه البطاقة له كسحر تجهيز. يمكنك فقط استخدام كل تأثير لـ\"ساناكي، نصيرة الميكانكو\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Target 1 \"Mikanko\" card you control; return it to the hand.",
+        "Special Summon 1 non-Illusion \"Mikanko\" monster from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Mikanko\" monsters.",
+        "Target 1 face-up monster on the field; equip this card to it as an Equip Spell."
+      ]
     },
     {
       "id": 11163040,
@@ -12518,7 +12540,8 @@
       "d": "3 وحوش من المستوى 4\nمرة واحدة كل دور، يمكنك أيضا استدعاء \"مدفع النمر حيوان الأبراج\" بالإكسيز باستخدام وحش 1 \"حيوان الأبراج\" باسم مختلف كمادة إكسيز. (إذا استخدمت وحش إكسيز لاستدعاء هذه البطاقة، أي مادة إكسيز مرفقة بتلك البطاقة أرفقها لهذه البطاقة أيضا.) تكسب هذه البطاقة نقاط هجوم ودفاع مساوية لمجموع نقاط هجوم ودفاع وحوش \"حيوان الأبراج\" المرفقة لهذه البطاقة. مرة واحدة كل دور: يمكنك فصل مادة إكسيز 1 من هذه البطاقة، ثم استهدف وحش إكسيز 1 تتحكم به و وحش 1 \"حيوان الأبراج\" في مقبرتك؛ أرفق وحش \"حيوانات الأبراج\" ذاك بوحش الإكسيز كمادة إكسيز.",
       "s": [
         "Xyz Summon using another \"Zoodiac\" monster?",
-        "Attach"
+        "Attach",
+        "???"
       ]
     },
     {
@@ -12952,7 +12975,8 @@
       "d": "جهّزها فقط لوحش \"بطل\" من المستوى 5 أو أعلى. إذا كنت تتحكم ببطاقة في منطقة سحر الملعب، يكسب الوحش المجهَّز نقاط هجوم مساوية لنقاط دفاعه الأصلية، أيضًا لا يمكن لخصمك استهدافه بتأثير بطاقة. في بداية مرحلة المعركة: يمكنك تفعيل سحر ملعب 1 مباشرة من يدك أو مجموعتك. يمكنك فقط استخدام هذا التأثير لـ\"البطل المفضَّل\" مرة كل دور. عندما يهاجم الوحش المجهَّز ويدمّر وحشا للخصم في المعركة: يمكنك إرسال هذه البطاقة إلى المقبرة؛ يمكن للوحش المهاجم القيام بهجوم ثانٍ على التوالي.",
       "s": [
         "Make a second attack",
-        "Activate 1 Field Spell?"
+        "Activate 1 Field Spell?",
+        "???"
       ]
     },
     {
@@ -14823,7 +14847,9 @@
       "id": 13708888,
       "n": "الحاكم نيوس، بطل الشر",
       "d": "\"نيوس، بطل العناصر\" أو وحش دمج 1 يتضمنه + وحش تأثير 1 في الملعب\nيجب استدعاؤه بشكل خاص بـ\"الدمج المظلم\".\n(1) لا يمكن تدميره في معركة أو بتأثيرات البطاقات.\n(2) إذا تم استدعاؤه بشكل خاص، أو إذا تم إرسال وحش(وحوش) إلى مقبرة خصمك بينما هذا الوحش مكشوف في الملعب: يمكنك استهداف وحش 1 مكشوف يتحكم به خصمك؛ تحكم به.\nيمكنك فقط استخدام هذا التأثير لـ\"الحاكم نيوس، بطل الشر\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Target 1 face-up monster your opponent controls; take control of it."
+      ]
     },
     {
       "id": 13722870,
@@ -16259,7 +16285,9 @@
       "id": 15123983,
       "n": "الهامستر النجم",
       "d": "متناغم 1 + وحش غير متناغم 1 أو أكثر\n(1) إذا تم استدعاء هذه البطاقة بالتزامن: فيمكنك رمي بطاقة 1؛ استدع بشكل خاص من مقبرتك وحشًا 1 استُخدم كمادة لاستدعاء هذه البطاقة بالتزامن، وإذا فعلت، فيعامل كمتناغم. \n(2) إذا كانت هذه البطاقة في مقبرتك: فيمكنك رمي بطاقتين 2؛ استدع هذه البطاقة بشكل خاص، لكن استبعدها عندما تغادر الملعب. \nيمكنك فقط استخدام كل تأثير لـ\"الهامستر النجم\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Discard 1 card; Special Summon 1 monster from your GY that was used as material for this card's Synchro Summon, and if you do, it is treated as a Tuner."
+      ]
     },
     {
       "id": 15130912,
@@ -16372,7 +16400,8 @@
       "s": [
         "Target 1 of those monsters; Special Summon it, then if you Special Summoned a Level 5 or higher Machine monster by this effect and have a \"Metalmorph\" Trap on your field or GY, except this card on the field, you can apply this effect",
         "Apply this effect? \n● Destroy as many monsters your opponent controls as possible, then you can inflict damage to your opponent, equal to that Special Summoned monster's original ATK.",
-        "Inflict damage to your opponent, equal to that Special Summoned monster's original ATK?"
+        "Inflict damage to your opponent, equal to that Special Summoned monster's original ATK?",
+        "???"
       ]
     },
     {
@@ -18056,7 +18085,8 @@
       "n": "كبير العين",
       "d": "قلب: انظر إلى ما يصل إلى 5 بطاقات من أعلى مجموعتك، ثم أعدها إلى أعلى مجموعتك بأي ترتيب.",
       "s": [
-        "Place the top 5 cards of your Deck in any order."
+        "FLIP: Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order.\n",
+        "Choose the number of cards to look at."
       ]
     },
     {
@@ -18294,7 +18324,8 @@
       "s": [
         "--",
         "Add 1 \"Six Strike\" card from your Deck or GY to your hand.",
-        "Monsters your opponent controls lose 500 ATK."
+        "Monsters your opponent controls lose 500 ATK.",
+        "???"
       ]
     },
     {
@@ -19190,7 +19221,11 @@
       "id": 17825378,
       "n": "سرعوف الأسفودل، النبات المفترس",
       "d": "إذا استخدمت هذه البطاقة كمادة لاستدعاء دمج، وأرسلت إلى المقبرة أو أضيفت إلى المجموعة الإضافية مكشوفة: يمكنك وضع عداد مفترس 1 في عدد من الوحوش في الملعب، ما يصل إلى عدد الوحوش التي تتحكم بها، وإذا فعلت، يصبح مستوى أي من تلك الوحوش التي مستواها 2 أو أعلى 1 طالما لديهم عداد مفترس.",
-      "s": []
+      "s": [
+        "--",
+        "--",
+        "If you Fusion Summon a DARK Fusion Monster, you can also use cards in your Pendulum Zones as monsters on the field, as material for its Fusion Summon."
+      ]
     },
     {
       "id": 17827173,
@@ -19208,7 +19243,8 @@
       "d": "(1) إذا تم استدعاء هذه البطاقة بشكل عادي أو خاص:  يمكنك إضافة 1 \"مقدمة القصة الخيالية: فجر الرحلة\" من مجموعتك إلى يدك، أو، إذا كانت \"مقدمة القصة الخيالية: فجر الرحلة\" في ملعبك أو مقبرتك، يمكنك سحب بطاقة 1 بدلًا عن ذلك. يمكنك فقط استخدام هذا التأثير لـ \"ونكو، الفارس النبيل من الغابة\" مرة كل دور. (2) طالما توجد بطاقة في منطقة سحر الملعب، لا يمكن لخصمك استهداف وحوش للهجوم، باستثناء هذا الوحش. (3) عند تدمير هذه البطاقة بالمعركة: يمكنك جعل الوحش الذي دمرها يخسر 500 نقطة هجوم.",
       "s": [
         "Add 1 \"Fairy Tale Prologue: Journey's Dawn\" from your Deck to your hand, or, if \"Fairy Tale Prologue: Journey's Dawn\" is on your field or in your GY, you can draw 1 card instead.",
-        "Draw 1 card instead?"
+        "Draw 1 card instead?",
+        "???"
       ]
     },
     {
@@ -19339,7 +19375,8 @@
       "n": "الدلفين المائي الفضائي المستحدث",
       "d": "مرة واحدة كل دور: يمكنك رمي بطاقة 1؛ انظر إلى يد خصمك واختر وحش 1. إذا كنت تتحكم بوحش بنقاط هجوم أعلى من أو مساوية لنقاط هجوم البطاقة التي تم اختيارها، دمر البطاقة التي تم اختيارها، وإذا فعلت، ألحق 500 نقطة ضرر بخصمك. غير ذلك، تتلقى 500 نقطة ضرر.",
       "s": [
-        "Discard 1 card to look at opponent's hand and choose 1 monster"
+        "Discard 1 card to look at opponent's hand and choose 1 monster",
+        "???"
       ]
     },
     {
@@ -20218,7 +20255,8 @@
       "n": "حصان الجناح الناري القرمزي",
       "d": "(1) إذا كان خصمك يتحكم بوحوش أكثر منك، فيمكنك استدعاء هذه البطاقة بشكل خاص (من يدك)، وإذا فعلت، فيمكنه الهجوم مباشرة هذا الدور. يمكنك فقط استدعاء \"حصان الجناح الناري القرمزي\" بشكل خاص مرة كل دور بهذه الطريقة. (2) عندما يفعّل خصمك تأثير وحش في الملعب (تأثير سريع): يمكنك إلحاق ضرر بخصمك مساوٍ لعدد سلسلة حدث هذا التأثير ×300، وإذا فعلت، فلا يمكن تدمير هذه البطاقة بتأثيرات تم تفعيلها قبل هذا التأثير في هذه السلسلة. يمكنك فقط استخدام هذا التأثير لـ\"حصان الجناح الناري القرمزي\" مرة كل دور.",
       "s": [
-        "Inflict damage to your opponent equal to the Chain Link number of this effect x 300, and if you do, this card cannot be destroyed by card effects activated before this effect in this Chain."
+        "Inflict damage to your opponent equal to the Chain Link number of this effect x 300, and if you do, this card cannot be destroyed by card effects activated before this effect in this Chain.",
+        "???"
       ]
     },
     {
@@ -21554,7 +21592,9 @@
       "id": 20087414,
       "n": "كوبيكو",
       "d": "استدعِ هذه البطاقة بشكل خاص كوحش تأثير (جني/أرض/مستوى 2/هجوم 0/دفاع 0) بالتاثيرات التالية (لا تزال تعامل هذه البطاقة كفخ).\n• مرة كل سلسلة، عندما يُفعل خصمك تأثير وحش في الملعب يستهدف بطاقة(بطاقات) تتحكم بها (تأثير سريع): فيمكنك وضع هذا البطاقة في منطقة السحر والفخ لديك، وإذا فعلت، ألغِ تأثير خصمك ذاك، ثم إذا كان ذلك الوحش يملك أعلى هجوم في ملعب خصمك، أعده إلى اليد.\nيمكنك فقط تفعيل 1 \"كوبيكو\" كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 20101223,
@@ -22529,6 +22569,7 @@
       "d": "(1) تكسب 700 نقطة هجوم/دفاع لكل وحش \"النجمة اللامعة\" آخر تتحكم به بأسماء مختلفة. يمكنك فقط استخدام كل من التأثيرات التالية لـ\"بارثا الشرسة - النجمة اللامعة\" مرة كل دور.\n(2) (تأثير سريع): يمكنك كشف هذه البطاقة في يدك؛ أعد فخ مستمر 1 \"النجمة اللامعة\" مكشوف تتحكم به إلى اليد، وإذا فعلت، فاستدع هذه البطاقة بشكل خاص. (3) يمكنك استبعاد هذه البطاقة التي تتحكم به؛ ضع فخ مستمر 1 من يدك بشكل محجوب. ويمكنك تفعيله هذا الدور.",
       "s": [
         "Reveal this card in your hand; return 1 face-up \"Argostars\" Continuous Trap you control to the hand, and if you do, Special Summon this card.",
+        "--",
         "Banish this card you control; Set 1 Continuous Trap from your hand. It can be activated this turn.",
         "The Trap that was Set can be activated this turn."
       ]
@@ -23583,7 +23624,8 @@
       "d": "(1) إذا تم استدعاء هذه البطاقة بشكل عادي أو خاص: فيمكنك إرسال وحش طقوس 1 من نوع  شيطان أو زومبي من يدك أو مجموعتك إلى المقبرة، ثم يمكنك إضافة سحر طقوس 1 من مجموعتك إلى يدك.\n(2) إذا تم استبعاد هذه البطاقة: فيمكنك استهداف وحش 1 من المستوى 4 أو أقل من نوع شيطان أو زومبي مستبعد لك؛ استدعِ ذلك الهدف بشكل خاص.\nيمكنك فقط استخدام كل تأثير لـ\"مستحضر الظلام\" مرة كل دور.",
       "s": [
         "Send 1 Fiend or Zombie Ritual Monster from your hand or Deck to the GY, then you can add 1 Ritual Spell from your Deck to your hand.",
-        "Target 1 of your banished Level 4 or lower Fiend or Zombie monsters; Special Summon it."
+        "Target 1 of your banished Level 4 or lower Fiend or Zombie monsters; Special Summon it.",
+        "Add 1 Ritual Spell from your Deck to your hand?"
       ]
     },
     {
@@ -23925,7 +23967,9 @@
       "id": 22283204,
       "n": "نظرة تيمايوس",
       "d": "استهدف 1 \"ساحر الظلام\" أو 1 \"الفتاة ساحرة الظلام\" تتحكم به أو في مقبرتك؛ استدع بالدمج وحش دمج 1 من مجموعتك الإضافية يذكره كمادة، بخلط ذلك الوحش في المجموعة، لكن استبعده خلال مرحلة النهاية للدور التالي. (يعامل هذا كاستدعاء بشكل خاص بـ\"عين تيمايوس\".) يمكنك فقط تفعيل 1 \"نظرة تيمايوس\" كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 22318971,
@@ -24707,8 +24751,9 @@
       "n": "خادم الروح",
       "d": "ضع بطاقة 1 \"ساحر الظلام\" أو تتضمن تحديدًا \"ساحر الظلام\"، في أعلى مجموعتك من يدك أو مجموعتك أو مقبرتك، باستثناء \"خادم الروح\". خلال مرحلتك الرئيسية: يمكنك استبعاد هذه البطاقة من مقبرتك؛ اسحب عدد بطاقات مساويًا لعدد \"الحكيم الحارس\" و/أو \"الحكيمة الحارسة\" و/أو \"ساحر الظلام\" و/أو \"الفتاة ساحرة الظلام\"، بأسماء مختلفة، في الملعب و المقبرة. يمكنك فقط استخدام هذا التأثير لـ\"خادم الروح\" مرة كل دور.",
       "s": [
-        "Place 1 card on top of the Deck",
-        "Banish this card from your GY; draw cards equal to the number of \"Palladium\" monsters"
+        "Place 1 card on top of the Deck from your hand, Deck, or GY, that is \"Dark Magician\" or mentions \"Dark Magician\" or \"Dark Magician Girl\", except \"Soul Servant\".",
+        "Banish this card from your GY; draw cards equal to the number of \"Palladium\" monsters, \"Dark Magician\", and/or \"Dark Magician Girl\", with different names, on the field and in the GYs.",
+        "Select a card to place on top of your Deck."
       ]
     },
     {
@@ -25471,8 +25516,9 @@
       "n": "القرش الرماح الباسل",
       "d": "وحشان 2 مستوى 5\nيمكنك استهداف وحش 1 يتحكم به خصمك؛ افصِل مادة إكسيز 1 من وحش إكسيز تتحكم به، وإذا فعلت، دمّر ذلك الوحش. هذا تأثير سريع إذا كنت تتحكم بوحش(وحوش) إكسيز ماء آخر. إذا دُمِّرَ وحش(وحوش) إكسيز ماء آخر تتحكم به بالمعركة أو بتأثير بطاقة بينما تتحكم بهذا الوحش: يمكنك أخذ سحر 1 من مجموعتك وضَعْهُ في أعلى مجموعتك. يمكنك فقط استخدام كل تأثير لـ\"القرش الرماح الباسل\" مرة واحدة كل دور.",
       "s": [
-        "Destroy",
-        "Move to the top of the Deck"
+        "Target 1 monster your opponent controls; detach 1 material from an Xyz Monster you control, and if you do, destroy that monster.",
+        "Place 1 Spell from your Deck on top of your Deck.",
+        "Place 1 Spell from your Deck on top of your Deck."
       ]
     },
     {
@@ -25537,7 +25583,10 @@
       "id": 23738096,
       "n": "جندي إمدادات الحشرات الجبّارة",
       "d": "(1) عند تفعيل تأثير وحش حشرة (تأثير سريع): يمكنك استدعاء هذه البطاقة بشكل خاص من يدك، ثم إذا فعّلت هذا التأثير استجابة لتفعيل تأثير لخصمك، ألغِ ذلك التأثير، أيضًا حتى نهاية دورك التالي بعد تنفيذ هذا التأثير، لا يمكنك الاستدعاء بشكل خاص من مجموعتك الإضافية، إلا وحوش حشرة.\n(2): خلال مرحلتك الرئيسية: يمكنك استدعاء وحش دمج حشرة 1 بالدمج من مجموعتك الإضافية، باستخدام وحوش من يدك أو ملعبك. يمكنك استخدام كل تأثير لـ\"جندي إمدادات الحشرات الجبّارة\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???",
+        "???"
+      ]
     },
     {
       "id": 23740893,
@@ -25627,7 +25676,9 @@
       "id": 23804920,
       "n": "عقرب سرقت الوحش السماوي",
       "d": "وحش 1 \"سرقت\" + وحش 1 بـ2500 نقطة هجوم أو أقل\n(1) إذا تم استدعاء هذه البطاقة بشكل خاص، أو في بداية خطوة الضرر إذا عاركت هذه البطاقة وحشا للخصم: فيمكنك استهداف وحش 1 مكشوف يتحكم به خصمك أو في مقبرته؛ استبعده، وإذا فعلت، تكسب هذه البطاقة هجومًا مساويًا لنصف الهجوم الأصلي للوحش المستبعد. يمكنك فقط استخدام هذا التأثير لـ\"عقرب سرقت الوحش السماوي\" مرة كل دور.\n(2) يمكن لهذه البطاقة القيام بهجمة ثانية خلال كل مرحلة معركة، بينما هناك وحش  مستبعد من المستوى 10 أو أعلى.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 23812568,
@@ -27063,9 +27114,10 @@
       "n": "كابوس إرث العالم",
       "d": "لا تتلقى ضرر معركة من الهجمات التي تتضمن وحوشك التي تتبادل إشارات الترابط. مرة كل دور: يمكنك تفعيل أحد هذه التأثيرات؛\n● انقل وحش 1 \"فارس الكابوس\" تتحكم به إلى منطقة وحوش رئيسية أخرى لديك.\n● بدل أماكن وحشين 2 \"فارس الكابوس\" في مناطق وحوشك الرئيسية.",
       "s": [
-        "Location change",
-        "Move 1 \"Knightmare\"",
-        "Switch the locations of 2 \"Knightmare\" monsters"
+        "Activate 1 of these effects;",
+        "Move 1 \"Knightmare\" monster you control to another of your Main Monster Zones.",
+        "Switch the locations of 2 \"Knightmare\" monsters in your Main Monster Zones.",
+        "Move \"Knightmare\" monster(s)."
       ]
     },
     {
@@ -28433,7 +28485,9 @@
       "id": 26434972,
       "n": "سماحة حداد الطغاة",
       "d": "لبقية هذا الدور، لا يمكن تدمير وحوش الضوء من نوع شيطان  لك بالمعركة، أيضا يُنصف أي ضرر ضرر معركة ستتلقاه. يمكنك استبعاد هذه البطاقة من مقبرتك؛ استدع بالدمج وحش دمج 1 \"حداد الطغاة\" من مجموعتك الإضافية، باستخدام وحوش تتحكم بها و/أو وحوش  في منطقة سحرك وفخك مُجهزة لوحش \"حداد الطغاة\" كمواد دمج. يمكنك فقط استخدام هذا التأثير لـ\"سماحة حداد الطغاة\" مرة كل دور.",
-      "s": []
+      "s": [
+        "This turn, your LIGHT Fiend monsters cannot be destroyed by battle, also any battle damage you take becomes halved."
+      ]
     },
     {
       "id": 26435595,
@@ -29178,7 +29232,9 @@
       "id": 27170599,
       "n": "شبح الخدع أو حلوى",
       "d": "إذا كنت تتحكم بوحش ترابط \"شبح الخدع\" أو سحر ملعب: استهدف وحش 1 مكشوف يتحكم به خصمك؛ يمكن لخصمك دفع 2000 نقطة حياة لجعل هذا التأثير يصبح \"ضع هذه البطاقة محجوبة بدلا من إرسالها إلى المقبرة\"، غير ذلك، هذا الدور، لا يمكن لذلك الوحش المكشوف الهجوم، تلغى تأثيراته، أيضا يُغَيَر إلى وضعية الدفاع محجوبا خلال مرحلة النهاية. يمكنك فقط تفعيل 1 \"شبح الخدع أو حلوى\" كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 27174286,
@@ -29700,7 +29756,9 @@
       "id": 27704731,
       "n": "سياف اللهب المعدني",
       "d": "لا يمكن استدعاؤه بشكل عادي/محجوب. يجب أولاً استدعاؤه بشكل خاص بـ\"التشكل المعدني المطور\" بالتضحية بوحش محارب من المستوى 5 أو أعلى. \n(1) يمكنك كشف هذه البطاقة من يدك؛ أضف بطاقة 1 تتضمن \"التشكل المعدني المطور\" من مجموعتك إلى يدك، باستثناء \"سياف اللهب المعدني\"، وإذا فعلت، فاخلط هذه البطاقة في المجموعة. يمكنك فقط استخدام هذا التأثير لـ\"سياف اللهب المعدني\" مرة كل دور. (2) في كل مرة يفعل فيها خصمك بطاقة أو تأثيرًا، تكسب هذه البطاقة 300 نقطة هجوم وتلحق 500 ضرر بخصمك عند تنفيذ تلك البطاقة/التأثير.",
-      "s": []
+      "s": [
+        "Reveal this card in your hand; add 1 card that mentions \"Max Metalmorph\" from your Deck to your hand, except \"Metalflame Swordsman\", and if you do, shuffle this card into the Deck."
+      ]
     },
     {
       "id": 27705190,
@@ -32934,7 +32992,8 @@
       "d": "(1) إذا كنت تتحكم بوحش دمج يجب استدعاؤه بشكل خاص بـ\"الدمج المظلم\"، فيمكنك استدعاء هذه البطاقة بشكل خاص (من يدك). يمكنك فقط استدعاء \"سجن الهلاك، بطل الشر\" بشكل خاص مرة كل دور بهذه الطريقة. (2) يمكنك إرسال وحش 1 \"بطل\" من مجموعتك إلى المقبرة؛ إذا اِستَدعَيتَ بالدمج وحش \"بطل\" في هذا الدور، فيمكن معاملة هذه البطاقة المكشوفة كأحد مواد الدمج المذكورة بالاسم، لكن يجب أن يكون الآخر صحيحًا. يمكنك فقط استخدام هذا التأثير لـ\"سجن الهلاك، بطل الشر\" مرة كل دور.",
       "s": [
         "--",
-        "Send 1 \"HERO\" monster from your Deck to the GY; if you Fusion Summon a \"HERO\" monster this turn, this face-up card can be used as a substitute for 1 material mentioned by name, but all other Fusion Materials must be correct."
+        "Send 1 \"HERO\" monster from your Deck to the GY; if you Fusion Summon a \"HERO\" monster this turn, this face-up card can be used as a substitute for 1 material mentioned by name, but all other Fusion Materials must be correct.",
+        "This face-up card can be used as a substitute for 1 material mentioned by name, but all other Fusion Materials must be correct."
       ]
     },
     {
@@ -33264,7 +33323,8 @@
       "s": [
         "Toss a coin. If tails, the following effects are negated until your next Standby Phase.",
         "The following effects are negated until your next Standby Phase",
-        "Discard 1 card; add 2 \"Arcana Force\" monsters with different names from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except \"Arcana Force\" monsters."
+        "Discard 1 card; add 2 \"Arcana Force\" monsters with different names from your Deck to your hand, also you cannot Special Summon for the rest of this turn, except \"Arcana Force\" monsters.",
+        "???"
       ]
     },
     {
@@ -33317,7 +33377,8 @@
       "d": "أضف وحشًا 1 \"النجمة اللامعة\" من مجموعتك إلى يدك، ثم إذا كنت تتحكم بفخ مستمر في منطقة وحوشك، أو بفخ مستمر في منطقة سحرك وفخك يملك تأثيرًا ليستدعي نفسه بشكل خاص كوحش، ففورًا بعد تنفيذ هذا التأثير، يمكنك استدعاء وحشًا محاربًا 1 بشكل عادي. خلال مرحلتك الرئيسية: يمكنك استبعاد هذه البطاقة من مقبرتك، ثم استهدف بطاقتين 2 في الملعب، بما في ذلك فخًا مستمرًا \"النجمة اللامعة\" تتحكم به؛ أعدهما إلى اليد. يمكنك فقط استخدام تأثير 1 لـ\"النجمة اللامعة - صيد العمالقة\" كل دور، ومرة فقط ذلك الدور.",
       "s": [
         "Add 1 \"Argostars\" monster from your Deck to your hand, then, if you control a Continuous Trap in your Monster Zone, or a Continuous Trap in your Spell & Trap Zone with an effect that Special Summons itself as a monster, immediately after this effect resolves, you can Normal Summon 1 Warrior monster.",
-        "Banish this card from your GY, then target 2 cards on the field, including an \"Argostars\" Continuous Trap you control; return them to the hand."
+        "Banish this card from your GY, then target 2 cards on the field, including an \"Argostars\" Continuous Trap you control; return them to the hand.",
+        "???"
       ]
     },
     {
@@ -35209,7 +35270,8 @@
       "d": "استبعد وحش 1 \"بطل المصير\" من مقبرتك؛ أضف ليدك، أو استدعِ بشكل خاص، وحش 1 \"بطل المصير\" من مقبرتك. يمكنك استبعاد هذه البطاقة من مقبرتك، ثم استهدف وحشين 2 \"بطل المصير\" تتحكم بهما؛ يصبح هجوم وحش 1 هجوم الوحش الآخر.",
       "s": [
         "Banish 1 \"Destiny HERO\" monster from your GY.",
-        "Banish this card from your GY, then target 2 \"Destiny HERO\" monsters you control; choose 1 of those monsters, its ATK becomes the other monster's ATK."
+        "Banish this card from your GY, then target 2 \"Destiny HERO\" monsters you control; choose 1 of those monsters, its ATK becomes the other monster's ATK.",
+        "???"
       ]
     },
     {
@@ -35568,7 +35630,9 @@
       "id": 32991300,
       "n": "مشكاة حداد الطغاة",
       "d": "وحشان 2 أو أكثر متضمنًا وحش شيطان ضوء\nمرة كل دور (تأثير سريع): يمكنك استهداف وحش شيطان 1 غير ترابط في مقبرتك؛ استدعه بشكل خاص، وإذا فعلت، فجهز هذه البطاقة التي تتحكم بها له كسحر تجهيز بالتأثيرات التالية.\n● يكسب الوحش المجهز هجومًا مساويًا لإجمالي تصنيف الترابط لوحوش الترابط المجهزة له × 600.\n● إذا هاجم الوحش المجهز وحشًا في وضعية الدفاع، فألحق ضرر معركة نافذًا لخصمك.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 32995007,
@@ -36443,7 +36507,8 @@
       "d": "(1) استهدف بطاقات مكشوفة يتحكم بها خصمك، بما يصل لعدد وحوش إكسيز \"هزيم الرعد\" التي تتحكم بها؛ دمرهم، ثم يمكنك إرفاق بطاقة 1 \"هزيم الرعد\" لوحش إكسيز 1 من الرتبة 4 تتحكم به كمادة. \n(2) يمكنك استبعاد هذه البطاقة من مقبرتك؛ فورًا بعد تنفيذ هذه التأثير، استدعِ بالإكسيز وحش إكسيز 1 باستخدام وحوش تتحكم بها، متضمنًا وحش \"هزيم الرعد\". يمكنك فقط استخدام كل تأثير لـ \"حفرة اندفاع هزيم الرعد\" مرة كل دور.",
       "s": [
         "Target face-up cards your opponent controls, up to the number of \"Ryzeal\" Xyz Monsters you control; destroy them, then you can attach 1 \"Ryzeal\" card from your GY to 1 Rank 4 Xyz Monster you control.",
-        "Banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control, including a \"Ryzeal\" monster."
+        "Banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 Xyz Monster using monsters you control, including a \"Ryzeal\" monster.",
+        "???"
       ]
     },
     {
@@ -37705,7 +37770,9 @@
       "id": 34873741,
       "n": "كوريبن، روح الجنية",
       "d": "إذا كنت تتحكم بـ\"تنين الجنية القديم\" أو وحش ضوء من نوع حيوان أو نباتي أو جني: فيمكنك استدعاء هذه البطاقة بشكل خاص من يدك، وإذا فعلت، فتعامل كمتناغم. إذا كان سيتم تدمير \"تنين الجنية القديم\" أو وحش(وحوش) آخر يذكره تتحكم به، بتأثير بطاقة، فيمكنك إعادة هذه البطاقة من ملعبك إلى يدك بدلاً من ذلك. يمكنك فقط استخدام كل تأثير لـ\"كوريبن، روح الجنية\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Special Summon this card from your hand, and if you do, it is treated as a Tuner."
+      ]
     },
     {
       "id": 34876719,
@@ -40665,7 +40732,9 @@
       "id": 37517035,
       "n": "خلافة - تحفة سحر الفن",
       "d": "(1) خلال المرحلة الرئيسية: استدع بالدمج وحش دمج 1 من مجموعتك الإضافية، باستخدام وحوش من يدك أو ملعبك، بما في ذلك وحش \"سحر الفن\"، ثم، إذا كان هناك بطاقة في منطقة الملعب، فيكسب الوحش المستدعى 500 نقطة هجوم. \n(2) خلال مرحلتك الرئيسية: يمكنك استبعاد هذه البطاقة من مقبرتك، ثم استهدف 3 بطاقات \"سحر الفن\" في مقبرتك بأسماء مختلفة؛ اخلطهم في المجموعة. يمكنك فقط استخدام كل تأثير لـ\"خلافة - تحفة سحر الفن\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field, including an \"Artmage\" monster, and if a card is in the Field Zone, that monster gains 500 ATK."
+      ]
     },
     {
       "id": 37520316,
@@ -41120,7 +41189,8 @@
       "d": "وحشا بندول 2\nخلال مرحلتك الرئيسية: يمكنك إضافة وحش بندول 1 من يدك إلى المجموعة الإضافية مكشوفا، وإذا فعلت، أضف وحش بندول 1 مكشوف من مجموعتك الإضافية إلى يدك، بمقياس بندول فردي إذا كان الوحش المُضَاف مقياس بندول زوجي، أو بمقياس بندول زوجي إذا كان الوحش المُضَاف مقياس بندول فردي. عندما تَستَدعِي وحش(وحوش) \"وتر الصولفا\" بالبندول: يمكنك استهداف 1 منهم؛ أضف وحش بندول 1 \"وتر الصولفا\" بمستوى يساوِ مقياس بندول الوحش المستهدف من مجموعتك إلى يدك. يمكنك فقط استخدام كل تأثير لـ\"الموسيقية، وتر الصولفا الكبيرة\" مرة واحدة كل دور.",
       "s": [
         "Add from Extra to hand",
-        "Search"
+        "Search",
+        "???"
       ]
     },
     {
@@ -41559,7 +41629,8 @@
       "d": "(1) لا يمكن تدمير الوحوش من نوع محارب التي تتحكم بها بتأثيرات البطاقات. \n(2) مرة كل دور، عندما يفعل خصمك بطاقة أو تأثيرًا: فيمكنك استدعاء هذه البطاقة بشكل خاص كوحش تأثير (محارب/ضوء/مستوى 4/ 800 هجوم / 800 دفاع) بالتأثير التالي (لا تزال هذه البطاقة فخًا)، ثم، إذا كنت تملك أية وحش(وحوش) \"النجمة اللامعة\" مستبعد، فيمكنك إعادة بطاقة 1 في الملعب إلى اليد.\n● مرة كل دور (تأثير سريع): يمكنك وضع هذه البطاقة مكشوفة في منطقة سحرك وفخك.",
       "s": [
         "Special Summon this card as an Effect Monster (Warrior/LIGHT/Level 4/ATK 800/DEF 800) with the following effect (this card is also still a Trap), then if you have a banished \"Argostars\" monster, you can return 1 card on the field to the hand.",
-        "Place this card face-up in your Spell & Trap Zone."
+        "Place this card face-up in your Spell & Trap Zone.",
+        "???"
       ]
     },
     {
@@ -42738,7 +42809,8 @@
       "n": "تلك ستة",
       "d": "في كل مرة يرمي فيها لاعب نردًا ( أو أحجار نرد)، يمكنك اختيار نتيجة نرد 1، وطبق التأثير المناسب، اعتمادا على النتيجة.\n● 1 أو 3 أو 5: تعامل نتيجة النرد كـ 6.\n● 2 أو 4 أو 6: تعامل نتيجة النرد كـ 1",
       "s": [
-        "Change the result using \"That Six\"'s effect"
+        "Choose 1 die result, and apply the appropriate effect, based on the result?",
+        "Treat it as a 6, or as a 1?"
       ]
     },
     {
@@ -43979,7 +44051,9 @@
       "id": 40543231,
       "n": "أراماسا٬ سيد المِدجَل السامي",
       "d": "(1) إذا تم استدعاء هذه البطاقة بشكل عادي أو خاص٬ أو إذا تم التضحية بهذه البطاقة: فيمكنك إضافة وحش 1 \"المِدجَل السامي\" من مجموعتك إلى يدك٬ باستثناء \"أراماسا٬ سيد المِدجَل السامي\".\n(2) إذا كان سيتم تدمير وحش(وحوش) زاحف آخر تتحكم به بتأثير بطاقة أو بمعركة٬ فيمكنك التضحية بهذه البطاقة بدلاً من ذلك. \nيمكنك فقط استخدام كل تأثير لـ\"أراماسا٬ سيد المِدجَل السامي\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Add 1 \"Mitsurugi\" monster from your Deck to your hand, except \"Mitsurugi no Mikoto, Aramasa\"."
+      ]
     },
     {
       "id": 40551410,
@@ -44227,7 +44301,8 @@
       "d": "يمكنك استدعاء هذه البطاقة بشكل خاص (من يدك أو مقبرتك) بإزالة 6 عدادات سحر من \"قلعة إنديميون السحرية\" التي تتحكم بها. إذا استُدعِيت بهذه الطريقة: استهدف سحر 1 في مقبرتك؛ أضفه إلى يدك. مرة واحدة كل دور: يمكنك رمي سحر 1، ثم استهدف بطاقة 1 على الملعب؛ دمّرها.",
       "s": [
         "Add 1 Spell Card from your Graveyard to your hand.",
-        "Destroy 1 card on the field"
+        "Destroy 1 card on the field",
+        "???"
       ]
     },
     {
@@ -45096,7 +45171,8 @@
       "d": "أعلن عن اسم وحش عادي 1؛ طبق هذا التأثير، ثم، إذا لم تكن تتحكم بأية وحوش، فيمكنك استدعاء وحش عادي 1 بذلك الاسم المعلن بشكل خاص من مجموعتك أو مقبرتك. بعد تطبيق ذلك، فلن تتلقى أي ضرر معركة من المعارك التي تتضمن وحش عادي لك بالاسم المعلن ووحوش \"التنين الخام\" لك في هذا الدور. خلال دور خصمك: يمكنك استبعاد هذه البطاقة من مقبرتك، ثم استهدف وحش عادي 1 تتحكم به أو في مقبرتك؛ تحكم بوحش 1 يتحكم به خصمك بنقاط هجوم أعلى حتى مرحلة النهاية.",
       "s": [
         "Declare 1 Normal Monster Card name; you take no battle damage from battles involving your declared Normal Monsters or your \"Primite\" monsters (for the rest of this turn), then if you control no monsters, you can Special Summon 1 declared Normal Monster from your Deck or GY.",
-        "Banish this card from your GY, then target 1 Normal Monster you control or in your GY; take control of 1 monster your opponent controls with higher ATK than that monster, until the End Phase."
+        "Banish this card from your GY, then target 1 Normal Monster you control or in your GY; take control of 1 monster your opponent controls with higher ATK than that monster, until the End Phase.",
+        "Special Summon 1 declared Normal Monster from your Deck or GY?"
       ]
     },
     {
@@ -45680,6 +45756,7 @@
       "d": "وحش 1 من نوع تنين أو ساحر من المستوى 4 أو أقل\n(1) لا يمكنك الاستدعاء بشكل خاص، إلا لوحش من نوع تنين. يمكنك فقط استخدام كل من التأثيرين التاليين لـ\"الروح ذات العيون الزرق\" مرة كل دور. \n(2) إذا تم استدعاء هذه البطاقة بالترابط: يمكنك أخذ 1 \"الضريح الأبيض\" من مجموعتك، أضفه ليدك أو أرسله إلى المقبرة. \n(3) يمكنك التضحية بهذه البطاقة؛ استدع وحش 1 \"أزرق العينين\" بشكل خاص من يدك أو مقبرتك، لكن إذا اِستَدعَيتَ وحش تأثير من المقبرة، فلن يمكنه الهجوم، وتُلغى تأثيراته.",
       "s": [
         "Take 1 \"Mausoleum of White\" from your Deck, and either add it to your hand or send it to the GY.",
+        "--",
         "Tribute this card; Special Summon 1 \"Blue-Eyes\" monster from your hand or GY, but if you Special Summon an Effect Monster from the GY, it cannot attack, also its effects are negated."
       ]
     },
@@ -45687,7 +45764,9 @@
       "id": 42104806,
       "n": "بارقة الأمل",
       "d": "أرسل وحش تنين 1 مكشوف من المستوى 8 تتحكم به إلى المقبرة؛ استدعِ بشكل خاص وحش تنين إكسيز 1 برتبة 8 من مجموعتك الإضافية. (يُعامل هذا استدعاء إكسيز). يمكنك تفعيل \"بارقة الأمل\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Send 1 face-up Level 8 Dragon monster you control to the GY; Special Summon 1 Rank 8 Dragon Xyz Monster from your Extra Deck (this is treated as an Xyz Summon)."
+      ]
     },
     {
       "id": 42110434,
@@ -45716,7 +45795,9 @@
       "id": 42141493,
       "n": "الطريفات الزغبية",
       "d": "إذا لم تكن تتحكم بأي بطاقة (تأثير سريع): يمكنك رمي هذه البطاقة؛ طبق هذين التأثيرين لهذا الدور.\n● كل مرة يستدعي فيها خصمك وحشًا(وحوشًا) بشكل خاص من المجموعة و/أو المجموعة الإضافية، فورًا اسحب بطاقة 1.\n● مرة، خلال مرحلة النهاية لهذا الدور، إذا كان عدد البطاقات في يدك أكثر من عدد البطاقات التي يتحكم بها خصمك بمقدار 6 أو أكثر، فيجب عليك خلط بطاقات من يدك إلى مجموعتك ليصبح عدد بطاقات يدك مساويًا لعدد البطاقات التي يتحكم بها خصمك +6. يمكنك فقط تفعيل تأثير وحش 1 \"الطريفات\" آخر، في الدور الذي فعّلت فيه هذا التأثير.",
-      "s": []
+      "s": [
+        "Discard this card; apply these effects this turn.\n● Each time your opponent Special Summons a monster(s) from the Deck and/or Extra Deck, immediately draw 1 card.\n● Once, during this End Phase, if the number of cards in your hand is more than the number of cards your opponent controls +6, you must randomly shuffle cards from your hand into the Deck so the number in your hand equals the number your opponent controls +6."
+      ]
     },
     {
       "id": 42143067,
@@ -46983,7 +47064,9 @@
       "id": 43321985,
       "n": "تنين جنية الحياة القديم ",
       "d": "متناغم 1 + وحش غير متناغم 1 أو أكثر\nإذا تم استدعاء هذه البطاقة بالتزامن: فيمكنك سحب بطاقة 1، أو، إذا كانت \"عالم الأرواح\" في الملعب، فأضف وحش ضوء 1 من نوع حيوان أو نباتي أو جني أو 1 \"الإشراق الأبدي\" من مجموعتك إلى يدك. يمكنك فقط استخدام هذا التأثير لـ\"تنين جنية الحياة القديم\" مرة كل دور. يمكن لـ\"تنين الجنية القديم\" والوحوش التي تذكره الهجوم وهي في وضعية الدفاع. وإذا فعلت، فطبق نقاط دفاعهم لحساب الضرر.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 43331750,
@@ -47881,7 +47964,9 @@
       "id": 44175358,
       "n": "البلاناريا المنقسم",
       "d": "(1) يمكنك استبعاد هذه البطاقة التي تتحكم بها؛ استدعِ وحشين 2 من نوع حشرة من المستوى 3 بنفس الاسم بشكل خاص من مجموعتك، لكن تلغى تأثيراتهما، أيضاً استبعدهما خلال مرحلة النهاية.\nيمكنك فقط استخدام هذا التأثير لـ\"البلاناريا المنقسم\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Banish this card you control; Special Summon 2 Level 3 Insect monsters from your Deck with the same name from each other, but their effects are negated, also banish them during the End Phase."
+      ]
     },
     {
       "id": 44178886,
@@ -49053,7 +49138,8 @@
       "n": "باندا الكنوز",
       "d": "يمكنك استبعاد ما يصل إلى 3 بطاقات سحر/فخ من مقبرتك محجوبة؛ استدعِ وحش عادي 1 بشكل خاص من مجموعتك، يكون مستواه مساويا لعدد البطاقات المستبعدة لتفعيل هذا التأثير.",
       "s": [
-        "Special Summon"
+        "Special Summon",
+        "???"
       ]
     },
     {
@@ -49061,7 +49147,8 @@
       "n": "عاصفة الكراكن إفيغيشكي",
       "d": "يمكنك استدعاء هذه البطاقة بالطقوس عبر أي بطاقة سحر طقوس \"غيشكي\". عندما يتم استدعاء هذه البطاقة بالطقوس: انظر إلى ما يصل إلى 2 بطاقات عشوائية في يد خصمك، ثم اخلط 1 منها في المجموعة.",
       "s": [
-        "Reveal card in hand"
+        "Reveal card in hand",
+        "???"
       ]
     },
     {
@@ -50461,7 +50548,8 @@
       "n": "كهف محرر الماس",
       "d": "تكسب كل الوحوش الصخرية التي تتحكم بها 500 نقطة هجوم/دفاع. مرة واحدة كل دور، خلال مرحلتك الرئيسية: يمكنك اختيار إلى ما يصل إلى 5 بطاقات \"محرر الماس\" من مجموعتك  وضعها  في أعلى مجموعتك  بأي ترتيب.",
       "s": [
-        "Choose up to 5 cards"
+        "Choose up to 5 cards",
+        "???"
       ]
     },
     {
@@ -50950,7 +51038,9 @@
       "id": 47028805,
       "n": "الساحرة الجادة الصغيرة",
       "d": "(1) خلال المرحلة الرئيسية، إذا كانت هذه البطاقة في يدك (تأثير سريع): يمكنك التضحية بوحش إلكتروكوني 1 أو بوحش ترابط 1؛ استدع هذه البطاقة بشكل خاص. يمكنك فقط استخدام هذا التأثير لـ\"الساحرة الجادة الصغيرة\" مرة كل دور. \n(2) تكسب نقاط هجوم مساوية لمجموع تصنيف الترابط لوحوش الترابط التي في مقبرتك × 400.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 47030842,
@@ -52594,7 +52684,8 @@
       "d": "يمكنك استدعاء هذه البطاقة بالطقوس بـ\"مراسم دراغما\". إذا تم استدعاء هذه البطاقة بالطقوس: يمكنك استهداف وحشين 2 مكشوفين في الملعب؛ يكسب 1 من تلك الوحوش نقاط هجوم مساوية للوحش الآخر. وحوش \"دراغما\" التي لديك من المستوى 8 أو أعلى لا يمكن تدميرها بالمعركة. إذا تم استدعاء وحش (وحوش) بشكل خاص من مجموعة خصمك الإضافية: يمكنك النظر في مجموعة خصمك الإضافية وأرسل وحشًا 1 منها إلى المقبرة. يمكنك فقط استخدام هذا التأثير لـ\"راهبة دراغما البيضاء\" مرة كل دور.",
       "s": [
         "Target 2 face-up monsters on the field; make 1 of those monsters gain ATK equal to the other monster's ATK",
-        "Look at your opponent's Extra Deck and send 1 monster from it to the GY."
+        "Look at your opponent's Extra Deck and send 1 monster from it to the GY.",
+        "???"
       ]
     },
     {
@@ -56071,7 +56162,8 @@
       "n": "تقدم البطاقات",
       "d": "أُنظُر إلى ما يصل إلى 5 بطاقات من أعلى مجموعتك، ثم ضعهم في أعلى المجموعة بأي ترتيب. يمكنك استدعاء وحش 1 بالتضحية بالإضافة لاستدعائك العادي/المحجوب هذا الدور. (يمكنك فقط كسب هذا التأثير مرة كل دور.)",
       "s": [
-        "Activate"
+        "Activate",
+        "???"
       ]
     },
     {
@@ -57597,7 +57689,8 @@
       "s": [
         "--",
         "Destroy all Spells and Traps on the field.",
-        "Once, while face-up on the field, when a Spell/Trap Card or effect is activated (Quick Effect): You can destroy all Spells and Traps on the field."
+        "Once, while face-up on the field, when a Spell/Trap Card or effect is activated (Quick Effect): You can destroy all Spells and Traps on the field.",
+        "???"
       ]
     },
     {
@@ -57763,7 +57856,9 @@
       "id": 53589300,
       "n": "نيرفا، الحاكم المسجون للإبداع",
       "d": "3 وحوش \"سحر الفن\"\nيجب أولا استدعاؤه إما بالدمج أو بشكل خاص (من المجموعة الإضافية) في وضعية الدفاع عبر التضحية بـ 3 وحوش بأنواع مختلفة. يمكنك فقط استدعاء \"نيرفا، الحاكم المسجون للإبداع\" بشكل خاص مرة كل دور. (1) لا يمكن تدميره بتأثيرات البطاقة بينما توجد بطاقة في منطقة الملعب. (2) مرة كل دور، عندما تُفعل تأثير وحش \"سحر الفن\" (تأثير سريع): يمكنك جعلى التأثير المُفَعًل يصبح \"دمر كل البطاقات التي يتحكم بها خصمك.",
-      "s": []
+      "s": [
+        "Make the activated effect become \"Destroy all cards your opponent controls\"."
+      ]
     },
     {
       "id": 53606874,
@@ -58019,7 +58114,9 @@
       "id": 53829527,
       "n": "تجمع الكريستآلي",
       "d": "لا يمكن استبعاد بطاقات \"كريستآلي\" التي تتحكم بها بتأثيرات بطاقات خصمك.  يمكنك استهداف بطاقة 1 مكشوفة في الملعب، أو بما يصل إلى 2 إذا كنت تتحكم بوحش تزامن \"كريستآلي\"؛ اخلط  بطاقة 1 \"كريستآلي\" مستبدة لك أو في مقبرتك إلى المجموعة، باستثناء\"تجمع الكريستآلي\"، وإذا فعلت، فدمر البطاقات المستهدفة. يمكنك فقط استخدام هذا التأثير لـ\"تجمع الكريستآلي\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 53830602,
@@ -58285,7 +58382,9 @@
       "id": 54112932,
       "n": "البطاطس والرقائق",
       "d": "البطاطس والرقائق دائماً مع بعضهما البعض.  إنهما دائماً خاملان في غرفتهما يأكلان رقائق البطاطس. لكمة الحساء لذيذة ايضاً. و النوريشيو لذيذة كذلك حياة البطاطس والرقائق لذيذة.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 54120521,
@@ -58436,7 +58535,9 @@
       "id": 54261514,
       "n": "زمجرة العشاري",
       "d": "استهدف وحشًا 1 تتحكم به وبطاقة 1 يتحكم بها خصمك؛ دمرهما. يمكنك فقط تفعيل 1 \"زمجرة العشاري\" كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 54266211,
@@ -59338,7 +59439,8 @@
       "s": [
         "Normal Summon this card without Tributing.",
         "Target 1 non-Pyro Level 5 \"K9\" monster in your GY; Special Summon both it and this card, but they cannot be used as material for the Xyz Summon of a LIGHT monster.",
-        "Add 1 \"K9\" Spell/Trap from your Deck to your hand."
+        "Add 1 \"K9\" Spell/Trap from your Deck to your hand.",
+        "???"
       ]
     },
     {
@@ -59402,7 +59504,8 @@
       "d": "إذا كنت تتحكم بوحش \"الحرفية العرافة\": استهدف سحر 1 في أيّ مقبرة: أضف بطاقة 1 بنفس الاسم من مجموعتك إلى يدك. خلال دور أي لاعب، باستثناء الدور الذي أُرسِلت فيه هذه البطاقة إلى المقبرة: يمكنك استبعاد هذه البطاقة وأي عدد من بطاقات السحر من مقبرتك: استدعِ وحش 1 \"الحرفية العرافة\" بشكل خاص من مجموعتك بمستوى مساوٍ لعدد بطاقات السحر المستبعدة لتفيعل هذا التأثير. يمكنك فقط استخدام كل تأثير لـ\"نفيسة الحرفية العرافة\" مرة كل دور.",
       "s": [
         "Target to add",
-        "Banish to Special Summon"
+        "Banish to Special Summon",
+        "???"
       ]
     },
     {
@@ -60845,7 +60948,9 @@
       "id": 56410769,
       "n": "الطائر المخرخر",
       "d": "وحشان 2 من المستوى 1 \n(1) يمكنك فصل مادة 1 من هذه البطاقة، ثم استهدف وحشًا 1 في الملعب؛ غير وضعية معركته. \n(2) بينما كل الوحوش التي تتحكم بهم في وضعية الهجوم، فإنهم يكسبون 500 نقطة هجوم. \n(3) بينما كل الوحوش التي تتحكم بهم في وضعية الدفاع، فلا يمكن لخصمك أن يعلن عن هجوم.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 56413937,
@@ -62090,7 +62195,10 @@
       "id": 57566760,
       "n": "أوزوهيم جلالة الميكانكو",
       "d": "وحشان 2 \"ميكانكو\" من المستوى 3\n(1) إذا تم استدعاء هذه البطاقة بشكل خاص: يمكنك إضافة سحر تجهيز 1 من مجموعتك أو مقبرتك إلى يدك. يمكنك فقط استخدام هذا التأثير لـ\"أوزوهيم جلالة الميكانكو\" مرة كل دور. (2) لا يمكن تدميرها بمعركة، أيضا يتلقى خصمك أي ضرر معركة كنت ستتلقاه من معارك تتضمن هذه البطاقة. (3) إذا هاجمت هذه البطاقة، ففي نهاية خطوة الضرر: يمكنك فصل مادة 1 من هذه البطاقة؛ يمكنها القيام بهجوم آخر على التوالي.",
-      "s": []
+      "s": [
+        "???",
+        "???"
+      ]
     },
     {
       "id": 57568840,
@@ -62612,7 +62720,9 @@
       "id": 58071334,
       "n": "التنين الملعون ثعباني العينين",
       "d": "وحش 1 \"ثعباني العين\" + وحش وهمي 1\nيجب استدعاؤه إما بالدمج، أو بشكل خاص بإرسال بطاقتي وحش 2 مكشوفتين في منطقة سحرك وفخك إلى المقبرة.\n(1) إذا تم استدعاء هذه البطاقة بشكل خاص: يمكنك استهداف وحشًا 1 مكشوفًا في الملعب؛ ضعه مكشوفًا في منطقة سحر وفخ مالكه كسحر مستمر. \nيمكنك فقط استخدام هذا التأثير لـ\"التنين الملعون ثعباني العينين\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 58074177,
@@ -63145,7 +63255,9 @@
       "id": 58570206,
       "n": "الانصهار الثقيل",
       "d": "استدع بالدمج وحش دمج 1 من مجموعتك الإضافية، باستخدام 3 وحوش أو أكثر من يدك أو ملعبك كمواد. يمكنك أيضا استبعاد وحوش من مجموعتك الإضافية كمواد، بما يصل إلى عدد الوحوش التي يتحكم بها خصمك، لكن تخسر نقاط حياة مساوية لمجموع نقاط هجوم الوحوش المستبعَدة بهذه الطريقة، عند استدعاء الوحش بالدمج.",
-      "s": []
+      "s": [
+        "Fusion Summon 1 Fusion Monster from your Extra Deck, using 3 or more monsters from your hand or field as material. You can also banish monsters from your Extra Deck as material, up to the number of monsters your opponent controls, but you lose LP equal to the total ATK of monsters banished this way, when the monster is Fusion Summoned."
+      ]
     },
     {
       "id": 58577036,
@@ -63325,7 +63437,9 @@
       "id": 58761791,
       "n": "خطأ توصيل",
       "d": "عند تفعيل بطاقة أو تأثير يتضمن تأثيرًا يضيف بطاقة(ـات) من المجموعة إلى اليد: يصبح التأثير المُفعَّل \"يأخذ خصمك بطاقة 1 من مجموعته لتضيفها إلى يدك، ويجب عليك إبقاء تلك البطاقة مكشوفة. خلال مرحلة نهاية هذا الدور، اخلطها في المجموعة، وإذا فعلت، فاسحب بطاقة 1\".",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 58775978,
@@ -63415,7 +63529,8 @@
       "d": "يمكنك كشف هذه البطاقة من يدك؛ أضف وحش بندول 1 آخر من يدك، أو بطاقة 1 من منطقة بندولك، إلى مجموعة مالكها الإضافية بشكل مكشوف، وإذا فعلت، استدع هذه البطاقة بشكل خاص. يمكنك فقط استخدام هذا التأثير لـ\"الذكاء المعادي للبشر المخلّص الذهني\" مرة كل دور. إذا تم استدعاء وحش (وحوش) آخر بشكل عادي أو خاص بينما تتحكم بهذه البطاقة: أرسل ذلك الوحش (الوحوش) إلى المقبرة خلال مرحلة نهاية هذا الدور.",
       "s": [
         "Special Summon",
-        "Send to GY"
+        "Send to GY",
+        "???"
       ]
     },
     {
@@ -63508,7 +63623,9 @@
       "id": 58931850,
       "n": "ملك التنانين السحري الأقصى ",
       "d": "وحشان 2 من المستوى 12\n(1)بينما تتحكم بهذه البطاقة المستدعاة بالإكسيز، لا يمكن لخصمك استهدافها بتأثير بطاقة، كما لا يمكن تدميرها بتأثير بطاقة لخصمك. \n(2)إذا هاجمت هذه البطاقة وحشًا في الدفاع بينما لديك 25 بطاقة أو أكثر في مقبرتك، فألحق ضعف ضرر المعركة النافذ لخصمك. \n(3)مرة كل دور، إذا كان لدى خصمك 25 بطاقة أو أكثر في مقبرته: يمكنك فصل مادة 1 من هذه البطاقة؛ استدع بشكل خاص وحشًا 1 من مجموعتك أو مجموعتك الإضافية أو مقبرتك.",
-      "s": []
+      "s": [
+        "Detach 1 material from this card; Special Summon 1 monster from your Deck, Extra Deck, or GY."
+      ]
     },
     {
       "id": 58932615,
@@ -64004,7 +64121,9 @@
       "id": 59400890,
       "n": "ساحر الظلام المدمر",
       "d": "\"ساحر الظلام\" + وحش ضوء أو ظلام 1\nيجب إما استدعاؤه بالدمج، أو بشكل خاص (من مجموعتك الإضافية) باستبعاد وحش ظلام 1 من نوع ساحر من المستوى 6 أو أعلى تتحكم به خلال الدور الذي تم فيه تفعيل بطاقة سحر أو تأثيرها. يمكنك فقط استدعاء \"ساحر ظلام الدمار\" بشكل خاص مرة كل دور بهذه الطريقة، لا تهم الطريقة التي تستخدمها.  (1) يصبح اسم هذه البطاقة \"ساحر الظلام\" بينما هي في الملعب أو المقبرة. (2) إذا تم استدعاء هذه البطاقة بشكل خاص: فيمكنك إضافة 1 \"ساحر الظلام\" أو بطاقة 1 تذكره من مجموعتك إلى يدك.",
-      "s": []
+      "s": [
+        "Add 1 \"Dark Magician\" or 1 card that mentions it from your Deck to your hand."
+      ]
     },
     {
       "id": 59419719,
@@ -64549,7 +64668,9 @@
       "id": 59901153,
       "n": "أخوات السحلبية",
       "d": "إذا كان مجموع مستويات الوحوش في ملعبك أقل من أو يساوي مجموع مستويات الوحوش في ملعب خصمك: يمكنك التضحية بهذه البطاقة؛ أضف وحشًا 1 من نوع حشرة أو نباتي من المستوى 7 أو أعلى من مجموعتك إلى يدك. خلال مرحلة النهاية لهذا الدور، تلقى 2700 نقطة ضرر إذا لم تستدعِ الوحش المضاف بشكل عادي أو خاص، أو بطاقة بنفس الاسم الأصلي، بعد تفعيل هذا التأثير. يمكنك فقط هذا التأثير لـ\"أخوات السحلبية\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 59905358,
@@ -64935,7 +65056,9 @@
       "id": 60268386,
       "n": "غريفين، وحش شارة النبالة",
       "d": "(1) يمكنك إرسال وحش 1 \"وحش شارة النبالة\" من مجموعتك إلى المقبرة، باستثناء \"غريفين، وحش شارة النبالة\"؛ استدع هذه البطاقة بشكل خاص من يدك، أيضًا لا يمكنك استدعاء وحوش بشكل خاص من مجموعتك الإضافية حتى نهاية هذا الدور، باستثناء استدعاء الإكسيز باستخدام فقط وحوش تملك \"وحش شارة النبالة\" أو \"رقم\" في اسمها الأصلي كمادة. (2) يمكن معاملة هذه البطاقة كمادتين 2 للاستدعاء بالإكسيز وحش إكسيز \"رقم\" يتطلب 3 مواد أو أكثر. يمكنك فقط استخدام كل تأثير لـ \"غريفين، وحش شارة النبالة\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 60279710,
@@ -65717,7 +65840,8 @@
       "n": "تنين الغضب المظلم أسود الجناح",
       "d": "متناغم 1 + وحش غير متناغم 1 أو أكثر\nمرة كل دور، عندما تتلقى ضرر: يمكنك إرسال ما يصل إلى 5 بطاقات من أعلى مجموعتك إلى المقبرة، ثم إذا تم إرسال أي وحوش إلى المقبرة بهذا التأثير، تكسب هذه البطاقة 400 نقطة هجوم.",
       "s": [
-        "Activate Effect?"
+        "Activate Effect?",
+        "???"
       ]
     },
     {
@@ -67416,7 +67540,8 @@
       "d": "يمكن لخصمك رمي بطاقة 1 لإلغاء هذا التأثير، غير ذلك ينظر كلا اللاعبين إلى مجموعة خصمه ويختار كل منهما بطاقة 1، ثم يضيفان البطاقة التي اختارها خصمه من مجموعته إلى يده. يمكنك فقط تفعيل 1 \"تداول الهامش\" كل دور.",
       "s": [
         "Add to hand",
-        "Discard to negate the effect?"
+        "Discard to negate the effect?",
+        "???"
       ]
     },
     {
@@ -71128,7 +71253,9 @@
       "id": 66236707,
       "n": "السيف الحاسم",
       "d": "لا يمكن إلغاء تفعيل هذه البطاقة ولا إلغاء تأثيرها. \n(1) في بداية مرحلتك الرئيسية 1 أو 2: استهدف أي عدد من البطاقات المكشوفة في الملعب؛ لكل بطاقة مستهدفة، استبعد بطاقة 1 من يدك أو 6 بطاقات من مجموعتك الإضافية، بشكل محجوب، ثم أعد البطاقات المستهدفة إلى اليد.",
-      "s": []
+      "s": [
+        "Target any number of face-up cards on the field; for each targeted card, banish 1 card from your hand, or 6 cards from your Extra Deck, face-down, then return those targeted cards to the hand."
+      ]
     },
     {
       "id": 66262416,
@@ -74436,7 +74563,8 @@
       "s": [
         "--",
         "Take 1 \"Abyss-\" Equip Spell from your Deck or GY and either add it to your hand or equip it to this card.",
-        "Add 1 \"Atlantean\" or \"Mermail\" monster from your Deck to your hand."
+        "Add 1 \"Atlantean\" or \"Mermail\" monster from your Deck to your hand.",
+        "???"
       ]
     },
     {
@@ -75003,7 +75131,8 @@
       "n": "الدبابة اللعبة",
       "d": "يمكنك وضع هذه البطاقة من يدك إلى منطقة سحرك وفخك كسحر، بشكل محجوب. يمكنك فقط استخدام كل من التأثيرات التالية لـ \"الدبابة اللعبة\" مرة كل دور. إذا تم إرسال هذه البطاقة المحجوبة في منطقة السحر والفخ إلى المقبرة: يمكنك استدعاء هذه البطاقة بشكل خاص. يمكنك التضحية بهذه البطاقة؛ استدعِ وحش 1 من المستوى 6 أو أقل بشكل خاص من يدك، أو، إذا كنت تتحكم بـ\"صندوق اللعبة\"، فيمكنك استدعاء وحش 1 من المستوى 6 أو أقل بشكل خاص من مقبرتك بدلاً من ذلك، باستثناء \"الدبابة اللعبة\".",
       "s": [
-        "Special Summon"
+        "Special Summon",
+        "???"
       ]
     },
     {
@@ -75028,7 +75157,8 @@
       "n": "جيلفورد الأسطورة",
       "d": "لا يمكن استدعاؤه بشكل خاص. عند استدعاء هذه البطاقة بشكل عادي: يمكنك تجهيز أكبر عدد ممكن من بطاقات التجهيز من مقبرتك لوحش(وحوش) محارب تتحكم به.",
       "s": [
-        "Equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control"
+        "Equip as many Equip Spell Cards from your Graveyard as possible to a Warrior-Type monster(s) you control",
+        "???"
       ]
     },
     {
@@ -76477,7 +76607,8 @@
       "d": "يمكنك التضحية بـ1 وحش من نوع الي: استدع بشكل خاص 1 وحش \"رويد\" ليس من عنصر الرياح من مجموعتك. يمكنك دفع نصف نقاط حياتك و استبعاد أي عدد من الوحوش التي من نوع الي من مقبرتك، بما يتضمن هذه البطاقة؛ استدع بشكل خاص من مجموعتك الإضافية، 1 وحش دمج\"رويد\" بنفس مستوى عدد الوحوش المستبعدة، متجاهلا شروط استدعائه، ولكن دمره في مرحلة النهاية. يمكنك فقط استخدام هذا التأثير لـ \"خلاط رويد\"مرة واحدة كل دور.",
       "s": [
         "Special Summon 1 non-WIND \"roid\"",
-        "Special Summon 1 \"roid\" Fusion"
+        "Special Summon 1 \"roid\" Fusion",
+        "???"
       ]
     },
     {
@@ -76531,7 +76662,8 @@
       "d": "خلال مرحلة المعركة الخاصة بك، إذا دَمّر وحش \"الساموراي فائق الثقل\" تتحكم به وحشًا للخصم بالمعركة خلال مرحلة المعركة هذه، يمكنك (تأثير سريع): فورًا بعد تنفيذ هذا التأثير، استدعِ بالتزامن وحش تزامن 1، باستخدام مواد تتحكم به، بما في ذلك هذه البطاقة. إذا لم يكن لديك بطاقات سحر/فخ في مقبرتك: يمكنك استهداف وحش تزامن 1 \"الساموراي فائق الثقل\" تتحكم به؛ خَفّض مستواه بـ 1، وإذا فعلت، استدعِ هذه البطاقة بشكل خاص من مقبرتك، أيضًا لا يمكنك استدعاء وحوش بشكل خاص لبقية هذا الدور، باستثناء وحوش \"الساموراي فائق الثقل\". يمكنك فقط استخدام كل من تأثيرات \"قبضة الساموراي فائق الثقل\" مرة واحدة كل دور.",
       "s": [
         "Synchro Summon",
-        "Special Summon"
+        "Special Summon",
+        "???"
       ]
     },
     {
@@ -76605,7 +76737,11 @@
       "id": 71440209,
       "n": "تميمة سحر الظلام",
       "d": "يمكنك تفعيل هذه البطاقة في الدور الذي وضعها فيه محجوبة عبر الكشف عن وحش ساحر 1 في يدك.\n(1) عند تفعيل تأثير وحش ردًا على تفعيل بطاقة تذكر \"ساحر الظلام\" أو تأثيرها: يمكنك إلغاء ذلك التأثير، وإذا فعلت، فلبقية هذا الدور، تلغى التأثيرات المفعّلة للوحوش بنفس الاسم الأصلي. \n(2) إذا اِستَدعَيتَ \"ساحر الظلام\" بشكل خاص بينما هذه البطاقة في مقبرتك: فيمكنك دفع 2500 نقطة حياة؛ ضع هذه البطاقة محجوبة.",
-      "s": []
+      "s": [
+        "Activate this card the turn it was Set by revealing 1 Spellcaster monster in your hand.",
+        "Negate that effect, and if you do, for the rest of this turn, the activated effects of monsters with the same original name are negated.",
+        "Pay 2500 LP; Set this card."
+      ]
     },
     {
       "id": 71442223,
@@ -77251,7 +77387,8 @@
       "n": "قوة التنين، التنين الفارس السحري",
       "d": "وحش محارب 1 + وحش تنين 1 من المستوى 5 أو أعلى\nإذا تم استدعاء هذه البطاقة بالدمج: يمكنك استهداف سحر/فخ 1 في مقبرتك تتضمن تحديداً بطاقة \"غايا فارس التنين\" في نصِّها؛ أضفها إلى يدك. يمكنك فقط استخدام هذا التأثير لـ\"قوة التنين، التنين الفارس السحري\" مرة كل دور. إذا كنت ستستدعي بالدمج وحش تنين من المستوى 7، يمكنك أيضاً استبعاد وحوش من مقبرتك كمواد دمج.",
       "s": [
-        "Return to hand"
+        "Target 1 Spell/Trap in your GY that mentions \"Gaia the Dragon Champion\"; add it to your hand.",
+        "If you Fusion Summon a Level 7 Dragon Fusion Monster, you can also banish monsters from your GY as material."
       ]
     },
     {
@@ -77390,7 +77527,9 @@
       "id": 72246674,
       "n": "دَاريُوس، الحيوان المجالد",
       "d": "وحشان 2، بما في ذلك وحش \"الحيوان المجالد\"\n(1) إذا تم استدعاء هذه البطاقة بالترابط: فيمكنك استدعاء وحش 1 \"الحيوان المجالد\" من المستوى 4 أو أقل بشكل خاص من يدك أو مقبرتك، أو إذا كان خصمك يتحكم بوحش، فيمكنك استدعاء وحش 1 \"الحيوان المجالد\" بشكل خاص من مجموعتك بدلاً من ذلك، أيضاً لا يمكنك استخدام وحوش كمواد ترابط لبقية هذا الدور، باستثناء وحوش \"الحيوان المجالد\". يمكنك فقط استخدام هذا التأثير لـ\"دَاريُوس، الحيوان المجالد\" مرة كل دور.\n(2) لا يمكن تدمير وحوش \"الحيوان المجالد\" التي تتحكم بها بمعركة أو بتأثيرات البطاقات خلال مرحلة معركتك.",
-      "s": []
+      "s": [
+        "Special Summon 1 Level 4 or lower \"Gladiator Beast\" monster from your hand or GY, or if your opponent controls a monster, you can Special Summon 1 \"Gladiator Beast\" monster from your Deck instead, also for the rest of this turn, you can only use \"Gladiator Beast\" monsters as Link Material."
+      ]
     },
     {
       "id": 72258771,
@@ -78309,7 +78448,9 @@
       "id": 73121813,
       "n": "روح السمو - مولى عذارى",
       "d": "متناغم 1 + وحش غير متناغم 1 أو أكثر\nإذا تم استدعاء هذه البطاقة بالتزامن وأنت تملك وحشين 2 من نوع تنين أسطوري أو أكثر في مقبرتك و/أو  مستبعدين: يمكنك إضافة سحر ملعب 1 من مجموعتك إلى يدك. يمكنك فقط استخدام هذا التأثير لـ\"روح السمو - مولى عذارى\" مرة كل دور. تكسب هذه البطاقة التأثيرات التالية بينما يوجد وحش مكشوف عديم التأثير في الملعب.\n● لا يمكن تدميرها بتأثيرات بطاقات خصمك.\n● لا يمكن استهداف هذه البطاقة بتأثيرات البطاقات.\n● يمكنها القيام بهجومِ ثانٍ خلال كل مرحلة معركة.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 73125233,
@@ -78632,7 +78773,9 @@
       "id": 73413514,
       "n": "ممتص الحلم",
       "d": "إذا فَعل خصمك تأثير وحش في يده أو مقبرته أو منفاه: فيمكنك استدعاء هذه البطاقة بشكل خاص من مقبرتك (إذا كانت هناك عند تفعيل التأثير) أو من يدك (حتى إذا لم تكن)، لكن دمرها خلال مرحلة النهاية. يمكنك فقط استخدام هذا التأثير ل\"ممتص الحلم\" مرة كل دور. في كل مرة يُفعِّل فيها خصمك تأثير وحش، فإن هذه البطاقة تكسب 1000 نقطة هجوم فورا بعد تنفيذه.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 73414375,
@@ -80037,7 +80180,9 @@
       "id": 74733322,
       "n": "سحر الفن، أكاديمية مدينة الفنون العظيمة",
       "d": "(1) خلال مرحلتك الرئيسية، يمكنك استدعاء 1 \"ميدرو البريء\" بشكل عادي بالإضافة لاستدعائك العادي/المحجوب. (يمكنك فقط كسب هذا التأثير مرة كل دور.)\n(2) يمكنك رمي سحر/فخ 1 والإعلان عن اسم وحش 1 \"سحر الفن\" أنت لا تتحكم به؛ أضف الوحش المعلن من مجموعتك إلى يدك، أيضًا لا يمكنك استدعاء بشكل خاص من خارج المجموعة الإضافية لبقية هذا الدور، باستثناء وحوش \"سحر الفن\" و\"ميدرو البريء\". (يمكنك فقط الإعلان عن اسم كل بطاقة مرة كل دور لتفعيل هذا التأثير لـ\"سحر الفن، أكاديمية مدينة الفنون العظيمة\".)",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 74741494,
@@ -82109,7 +82254,9 @@
         "Special Summon",
         "Special Summon",
         "Add 1 monster from your Deck?",
-        "Special Summon Z-ARC"
+        "Special Summon Z-ARC",
+        "???",
+        "???"
       ]
     },
     {
@@ -82888,7 +83035,9 @@
       "id": 77571454,
       "n": "رقم 69: شارة النبل - محطم المادة المظلمة",
       "d": "5 وحوش من المستوى 4 \n(1) لا يمكن تدميره بمعركة أو بتأثيرات البطاقات. \n(2) مرة كل دور (تأثير سريع): يمكنك فصل مادة 1 من هذه البطاقة، ثم استهدف وحشًا 1 مكشوفاً في ملعب خصمك؛ يصبح اسمه \"مجهول\".\n(3) عند تنفيذ تأثير وحش فَعَّلَه خصمك، إذا كان اسم ذلك الوحش \"مجهول\"، فألغِ ذلك التأثير المُفَعَّل.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 77573354,
@@ -83044,7 +83193,8 @@
       "n": "التحول المعدني الكامل الكاهست",
       "d": "وحش 1 \"التحول المعدني\" + وحش عادي 1\nيجب استدعاؤه بالدمج. مرة واحدة كل دور، خلال دور خصمك (تأثير سريع): يمكنك استهداف وحش تأثير 1 على الملعب؛ جهز ذلك الهدف لهذه البطاقة. تكسب هذه البطاقة نقاط دفاع  مساوية لمجموع نقاط الهجوم الأصلية للوحوش المُجهزة لهذه البطاقة بهذا التأثير. يمكنك استخدام وحوش تتحكم بها مُجهزة لهذه البطاقة التي تتحكم بها كمادة دمج لاستدعاء الدمج لوحش دمج \"التحول المعدني\" ينصهم كمواد.",
       "s": [
-        "Equip"
+        "Target 1 Effect Monster on the field; equip that target to this card.",
+        "--"
       ]
     },
     {
@@ -84256,7 +84406,9 @@
       "id": 79015062,
       "n": "رابطة ذ.ا.",
       "d": "اكشف عن وحش إلكتروكوني 1 في يدك؛ طبق هذا التأثير اعتمادًا على عنصره، أيضا لا يمكنك استدعاء وحوش بشكل خاص لبقية هذا الدور بعد تنفيذ هذه البطاقة، باستثناء وحوش من نوع إلكتروكوني.\n● ظلام: استدع الوحش الذي كشفته بشكل خاص، وإذا فعلت، فأضف وحشًا إلكتروكونيًا 1 ليس ظلام من المستوى 4 أو أقل من مجموعتك إلى يدك.\n● ليس ظلام: اخلط الوحش الذي كشفته في المجموعة، وإذا فعلت، فأضف وحشًا 1 \"@إغنيستر\" بعنصر مختلف من مجموعتك إلى يدك.\nيمكنك فقط تفعيل 1 \"رابطة ذ.ا.\" كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 79016563,
@@ -85670,7 +85822,9 @@
       "id": 80447641,
       "n": "وطواط، نينجا الغابة",
       "d": "(1) إذا كان هناك بطاقة مكشوفة في منطقة سحر الملعب، يمكنك استدعاء هذه البطاقة بشكل خاص (من يدك). يمكنك استدعاء \"وطواط، نينجا الغابة\" بشكل خاص مرة كل دور بهذه الطريقة. \n(2) إذا تم استدعاء هذه البطاقة بشكل عادي أو خاص بينما\"مقدمة القصة الخيالية: فجر الرحلة\" في ملعبك أو مقبرتك: يمكنك إضافة وحش 1 ضوء حيوان من مجموعتك إلى يدك. يمكنك فقط استخدام هذا التأثير لـ \"وطواط، نينجا الغابة\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 80453041,
@@ -86160,7 +86314,8 @@
       "d": "لا يمكن استدعاؤه بشكل عادي/محجوب. يجب أولاً استدعاؤه بشكل خاص بـ\"التشكل المعدني المطور\" بتفعيلها بالتضحية بوحش من نوع تنين من المستوى 5 أو أعلى.يمكنك فقط استخدام كل من التأثيرين التاليين لـ\"تنين المعدن الكامل الأسود أحمر العينين\" مرة كل دور. \n(1) يمكنك كشف هذه البطاقة من يدك؛ ضع فخًا 1 \"التشكل المعدني\" بشكل محجوب مباشرة من مجموعتك، وإذا فعلت، فاخلط هذه البطاقة في المجموعة. \n(2) عندما يُفعل خصمك بطاقة أو تأثيرًا (تأثير سريع): يمكنك إلغاء التفعيل، ثم يمكنك إلحاق ضرربخصمك مساوٍ لنقاط الهجوم الأصلية لوحش 1 له في وضعية الهجوم.",
       "s": [
         "Reveal this card in your hand; Set 1 \"Metalmorph\" Trap from your Deck, and if you do, shuffle this card into the Deck.",
-        "Negate the activation, then you can inflict damage to your opponent equal to the original ATK of 1 Attack Position monster your opponent controls."
+        "Negate the activation, then you can inflict damage to your opponent equal to the original ATK of 1 Attack Position monster your opponent controls.",
+        "???"
       ]
     },
     {
@@ -86770,7 +86925,9 @@
       "id": 81418467,
       "n": "التنين الخام الإمبراطوري",
       "d": "يتطلب التضحية بوحش عادي 1 لاستدعائه مكشوف بشكل عادي. خلال مرحلة خصمك الرئيسية (تأثير سريع): يمكنك كشف هذه البطاقة في يدك؛ فورا بعد تنفيذ هذا التأثير، استدع وحش 1 \"التنين الخام\" بشكل عادي. يمكنك فقط استخدام هذا التأثير لـ \"التنين الخام الإمبراطوري\" مرة كل دور. إذا تم استدعاء هذه البطاقة بالتضحية: يمكنك تطبيق هذه التأثيرات، بالتتابع.\n● ألغ كل تأثيرات الوحوش المكشوفة التي يتحكم بها خصمك حاليا.\n● استبعد كل الوحوش التي يتحكم بها خصمك بنفس نوع و/أو عنصر أي وحوش عادية في مقبرتك.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 81426505,
@@ -87257,7 +87414,9 @@
       "id": 81878201,
       "n": "رمح-الأعماق ثلاثي الشُعب",
       "d": "استدعِ وحش 1 \"الأطلنطي\" أو \"حورية الأعماق\" بشكل خاص من يدك أو مقبرتك، وإذا فعلت، فجهزه بهذه البطاقة. إذا كان سيتم تدمير الوحش المجهَّز بالمعركة أو بتأثير بطاقة، فيمكنك إرسال هذه البطاقة إلى المقبرة بدلا من ذلك. يمكنك استبعاد هذه البطاقة من مقبرتك، ثم استهدف ما يصل إلى 3 وحوش من نوع سمكة و/أو ثعبان بحر و/أو بحري مستبعدين لك و/أو في مقبرتك؛ اخلطهم في المجموعة. يمكنك فقط استخدام هذا التأثير لـ\"رمح-الأعماق ثلاثي الشُعب\" مرة كل دور. يمكنك فقط تفعيل 1 \"رمح-الأعماق ثلاثي الشُعب\" كل دور.",
-      "s": []
+      "s": [
+        "Special Summon 1 \"Atlantean\" or \"Mermail\" monster from your hand or GY, and if you do, equip it with this card"
+      ]
     },
     {
       "id": 81881839,
@@ -87265,7 +87424,9 @@
       "d": "يمكنك استهداف وحشين 2 من المستوى 6 أو أقل في الملعب بنفس الاسم؛ ضاعف مستويهما.في بداية مرحلة المعركة: يمكنك استهداف وحش 1 \"الشيفرة\" تتحكم به؛ يصبح اسم وحش 1 آخر مكشوف في الملعب بنفس اسم وحش \"الشيفرة\" المستهدف حتى مرحلة النهاية. يمكنك فقط استخدام كل تأثير لـ\"الظهور المضاعف\" مرة كل دور.",
       "s": [
         "Target 2 Level 6 or lower monsters with the same name on the field; their Levels are doubled.",
-        "Target 1 \"Cipher\" monster you control; choose 1 other face-up monster on the field, and its name becomes that \"Cipher\" monster's, until the End Phase."
+        "Target 1 \"Cipher\" monster you control; choose 1 other face-up monster on the field, and its name becomes that \"Cipher\" monster's, until the End Phase.",
+        "???",
+        "???"
       ]
     },
     {
@@ -89618,7 +89779,8 @@
       "n": "ميدان العاهل الحقيقي",
       "d": "عندما لا  تملك أي بطاقات في مجموعتك الإضافية وأنت هو اللاعب الوحيد الذي يتحكم بوحش اُستُدعِي بالتضحية، لا يمكن لخصمك أن يستدعي وحوشا من المجموعة الإضافية. إذا هاجم الوحش الذي تم استدعاؤه بالتضحية، الذي تتحكم به، على أحد وحوش الخصم، يكسب 800 نقطة هجوم خلال حساب الضرر فقط. مرة واحدة كل دور: يمكنك تخفيض مستوى وحش بـ 2800 نقطةهجوم/1000 نقطة دفاع في يدك بـ 2 حتى نهاية هذا الدور (حتى بعد استدعائهم/وضعهم بشكل مقلوب، حتى إذا غادرت هذه البطاقة الملعب).",
       "s": [
-        "Reduce the Level of 1 monster with 2800 ATK and 1000 DEF in your hand by 2"
+        "Reduce the Level of 1 monster with 2800 ATK and 1000 DEF in your hand by 2",
+        "???"
       ]
     },
     {
@@ -90061,8 +90223,9 @@
       "n": "العاشقة، وتر الصولفا الكبيرة",
       "d": "وحشان 2 أو أكثر، يتضمن وحش بندول\nتكسب 100 نقطة هجوم لكل وحش بندول مكشوف في مجموعتك الإضافية. لا يمكن إلغاء التأثيرات المُفعلة لوحوش البندول التي تشير إليهم هذه البطاقة. مرة كل دور، عندما يُفعل خصمك بطاقة أو تأثير (تأثير سريع): يمكنك استدعاء بطاقة 1 \"وتر الصولفا\" بمقياس بندول فردي بشكل خاص من منطقة البندول إلى منطقة تشير إليها هذه البطاقة، وإذا فعلت، ألغِ التفعيل، ثم يمكنك إضافة وحش بندول 1 \"وتر الصولفا\" بمقياس بندول زوجي من مجموعتك إلى مجموعتك الإضافية مكشوفا.",
       "s": [
-        "When your opponent activates a card or effect (Quick Effect): Special Summon 1 \"Solfachord\" card with an odd Pendulum Scale from your Pendulum Zone to your zone this card points to, and if you do, negate the activation, then you can add 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your Extra Deck face-up.",
-        "Add 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your Extra Deck face-up?"
+        "Special Summon 1 \"Solfachord\" card with an odd Pendulum Scale from your Pendulum Zone to your zone this card points to, and if you do, negate the activation, then you can add 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your face-up Extra Deck.",
+        "Add 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your Extra Deck face-up?",
+        "Select 1 \"Solfachord\" Pendulum Monster with an even Pendulum Scale from your Deck to your Extra Deck."
       ]
     },
     {
@@ -90124,7 +90287,11 @@
       "id": 84550369,
       "n": "رقصة الميكانكو العظيمة - أميرتا الدوامة",
       "d": "(1) لا يمكنك الاستدعاء بشكل خاص من المجموعة الإضافية لبقية هذا الدور بعد تنفيذ هذه البطاقة، باستثناء وحوش \"ميكانكو\"، أيضًا أرسل بطاقة 1 \"ميكانكو\" من مجموعتك إلى المقبرة، باستثناء \"رقصة الميكانكو العظيمة - أميرتا الدوامة\"، ثم يمكنك وضع سحر/فخ 1 \"ميكانكو\" من مجموعتك بشكل محجوب، باستثناء \"رقصة الميكانكو العظيمة - أميرتا الدوامة\".\n(2) يمكنك استبعاد هذه البطاقة من مقبرتك وافصل مادة 1 من وحشٍ تتحكم به؛ استدع وحش طقوس 1 \"ميكانكو\" بشكل خاص من يدك أو مجموعتك. \nيمكنك فقط استخدام تأثير 1 لـ\"رقصة الميكانكو العظيمة - أميرتا الدوامة\" مرة كل دور، وفقط في ذلك الدور.",
-      "s": []
+      "s": [
+        "???",
+        "???",
+        "???"
+      ]
     },
     {
       "id": 84565800,
@@ -91253,7 +91420,10 @@
       "id": 85672957,
       "n": "الذري، البطل المقنّع",
       "d": "يجب استدعاؤه بشكل خاص بـ\"تغيير القناع\". (1) في المرة الأولى التي سيتم فيها تدمير هذه البطاقة بمعركة أو بتأثير بطاقة كل دور، فلن تدمر. يمكنك فقط استخدام كل من التأثيرات التالية لـ\"الذري، البطل المقنّع\" مرة كل دور. (2) إذا تم استدعاء هذه البطاقة بشكل خاص: فيمكنك استهداف وحش 1 \"البطل المقنّع\" ليس نار مستبعد لك أو في مقبرتك؛ استدعه بشكل خاص في وضعية الدفاع، متجاهلًا شروط استدعائه. (3) خلال مرحلة نهايتك: يمكنك استهداف سحر لعب سريع 1 \"تغيير\" في مقبرتك؛ ضعها محجوبة.",
-      "s": []
+      "s": [
+        "???",
+        "???"
+      ]
     },
     {
       "id": 85673903,
@@ -91547,7 +91717,11 @@
       "id": 85899505,
       "n": "تيمايوس تنين الاتحاد السحري",
       "d": "\"ساحر الظلام\" أو \"الفتاة ساحرة الظلام\" + وحش تنين أو ساحر 1\n(1) بعد استدعاء هذه البطاقة بشكل خاص، حتى نهاية دورك التالي، لا تتأثر بتأثيرات البطاقات الأخرى. يمكنك فقط استخدام كل من التأثيرات التالية لـ\"تيمايوس تنين الاتحاد السحري\" مرة كل دور. \n(2) إذا عاركَت هذه البطاقة، فخلال حساب الضرر: يمكنك جعل هذه البطاقة تكسب 100 نقطة هجوم لكل بطاقة سحر  مستبعدة لك وفي المقابر.\n(3) خلال دور خصمك (تأثير سريع): يمكنك استهداف سحر/فخ 1 في الملعب؛ دمره.",
-      "s": []
+      "s": [
+        "???",
+        "???",
+        "???"
+      ]
     },
     {
       "id": 85908279,
@@ -91914,7 +92088,9 @@
       "id": 86304179,
       "n": "طَبَق الحظ - الروبيان",
       "d": "ذهبت إلى واجهة إدو، وهو حديث المدينة. الأطباق البحرية هنا ليست فقط ضخمة في الحجم، ولكن مظهرها الجميل أكسبها لقب \"الجذع الرئيسي\". وعلى الرغم من أن الميناء مليء بأحدث المرافق المتطورة ولديه حَسّ متعدد الثقافات، فإن الهواء مليء برائحة غنية تُثير شعوراً ما بالحنين إلى الماضي، ويتردد صدى الطقطقة والفرقعة من حين لآخر في الهواء، رافعاً معنوياتي. على الرغم من أنني انتظرت طبق الروبيان الشهير لفترة طويلة، والظروف القاسية في الهواء المحيط تعني أنه لا يمكن دخول الميناء اليوم. بسبب سوء حظّي، كان لا بدّ أن أسلّم تقريراً فارغ عملياً. إنه لأمر مؤسف حقاً لأنني كنت أتطلع لهذا لأكثر من عام ولكن أعتقد أنني في نهاية اليوم سأقيمه بـ3 نجوم.",
-      "s": []
+      "s": [
+        "Target 1 card in your Pendulum Zone; toss a coin.\n● Heads: Special Summon it.\n● Tails: Destroy it, but lose LP equal to its Pendulum Scale x 300."
+      ]
     },
     {
       "id": 86308219,
@@ -92401,7 +92577,9 @@
       "id": 86809440,
       "n": "ديماس الغول المحاكي",
       "d": "وحوش\"الغول المحاكي\" التي تتحكم بها التي لم يتم استدعاؤها بشكل عادي أو خاص في هذا الدور يكسبون نقاط هجوم مساوية لنقاط دفاعهم الأصلية. أي لاعب يتحكم بوحش محجوب لا يمكنه استدعاء وحوش بشكل عادي، ولا الإعلان عن هجوم بوحوش تم استدعاؤها بشكل خاص في هذا الدور. خلال مرحلتك الرئيسية: يمكنك إضافة وحش 1 \"الغول المحاكي\" من مجموعتك أو مقبرتك إلى يدك. يمكنك فقط استخدام هذا التأثير لـ\"ديماس الغول المحاكي\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 86821010,
@@ -92743,7 +92921,9 @@
       "id": 87126721,
       "n": "الطريفات القطوطية",
       "d": "إذا لم تكن تتحكم بأي بطاقة (تأثير سريع): يمكنك رمي هذه البطاقة؛ طبق هذين التأثيرين لهذا الدور.\n●كل مرة يستدعي خصمك وحشًا(وحوشًا) بشكل خاص من المقبرة و/أو الاستبعاد، فورًا اسحب بطاقة 1.\n●مرة، خلال مرحلة نهاية هذا الدور، إذا كان عدد البطاقات في يدك أكثر من عدد البطاقات التي يتحكم بها خصمك بـ 6 أو أكثر، فيجب عليك خلط بطاقات من يدك إلى مجموعتك ليصبح عدد بطاقات يدك مساويًا لعدد البطاقات التي يتحكم بها خصمك +6. \nيمكنك فقط تفعيل تأثير وحش 1 \"الطريفات\" آخر، في الدور الذي فعّلت فيه هذا التأثير.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 87148330,
@@ -93459,8 +93639,9 @@
       "n": "الرؤى المستقبلية",
       "d": "في كل مرة يتم استدعاء وحش بشكل عادي: استهدف ذلك الوحش؛ استبعده. خلال مرحلة الاستعداد التالية للاعب الذي كان يتحكم بذلك الوحش: أعده إلى الملعب مكشوفا في وضعية الهجوم.",
       "s": [
-        "Banish",
-        "Return to field"
+        "Target that monster; banish it.",
+        "Return it to the field in face-up Attack Position.",
+        "Send to grave."
       ]
     },
     {
@@ -93988,7 +94169,9 @@
       "id": 88392300,
       "n": "محرك دمى الواط النشط",
       "d": "(تأثير سريع): يمكنك إرسال هذه البطاقة من يدك أو ملعبك إلى المقبرة، ثم استهدف وحش 1 يتحكم به خصمك؛ حرك ذلك الهدف إلى منطقة أخرى من مناطق وحوشه الرئيسية.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 88406570,
@@ -94278,7 +94461,8 @@
       "n": "حشرة المثقاب",
       "d": "عندما تُلحق هذه البطاقة ضرر معركة بنقاط حياة خصمك، يمكنك استهداف بطاقة 1 \"طُفيلي طوفيلي\" من مجموعتك، اخلط المجموعة، وضع \"طُفيلي طوفيلي\" في أعلى المجموعة.",
       "s": [
-        "Search"
+        "Search",
+        "???"
       ]
     },
     {
@@ -95362,7 +95546,9 @@
       "id": 89851827,
       "n": "فارس القَسَم",
       "d": "وحش تنين 1 + وحش ساحر 1 \n(1) يخسر 100 نقطة هجوم لكل وحش مستبعد لك. (2) بينما أنت تتحكم بهذه البطاقة المستدعاة بالدمج، لا يمكن لخصمك تفعيل تأثيرات الوحوش من نوع تنين أو ساحر المستدعاة بشكل خاص التي يتحكم بها. (3) يمكنك استهداف وحش تنين 1 وساحر 1 في مقبرتك؛ استدع أحدهما بشكل خاص، وإذا فعلت، فضع الآخر في أسفل المجموعة. يمكنك فقط استخدام هذا التأثير لـ\"فارس القَسَم\" مرة كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 89856523,
@@ -95783,7 +95969,9 @@
       "id": 90303227,
       "n": "ك9 - إض المستذئب",
       "d": "وحشان 2 من المستوى 9\n(1) بينما هذه البطاقة تملك مادة، فيمكنها الهجوم عددًا من المرات خلال كل مرحلة معركة، بما يصل إلى عدد المواد المرفقة به.  (2) عندما يفعل خصمك بطاقة أو تأثير (تأثير سريع): يمكنك فصل مادة 1 من هذه البطاقة، ثم فعل هذا التأثير اعتمادًا على دور اللاعب؛\n● دورك: استبعدا بطاقة 1 يتحكم بها خصمك و/أو بطاقة 1 في مقبرته.\n● دور خصمك: أنظر إلى يد خصمك واستبعد بطاقة 1 منها بشكل مكشوف مرحلة النهاية.\nيمكنك فقط استخدام هذا التأثير لـ\"ك9 - إض المستذئب\" مرة كل دور.",
-      "s": []
+      "s": [
+        "Detach 1 material from this card, then activate this effect depending on whose turn it is;\n● Yours: Banish up to 1 card each from your opponent's field and GY.\n● Opponent's: Look at your opponent's hand and banish 1 card from it face-up, until the End Phase."
+      ]
     },
     {
       "id": 90307498,
@@ -96044,7 +96232,9 @@
       "id": 90506641,
       "n": "فتح الروح",
       "d": "إذا كان خصمك يتحكم بوحش وأنت تتحكم بوحش عادي: اختر 5 وحوش عادية في مجموعتك، أضف 1 منهم إلى يدك واستبعد الباقي.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 90508760,
@@ -97804,7 +97994,8 @@
       "d": "(1): أضف وحش ضوء أو ظلام 1 من نوع حراري أو بحري من المستوى 5 أو أعلى من مجموعتك أو مقبرتك إلى يدك، ثم إذا كنت تملك 3 وحوش أو أكثر من نوع حراري و/أو بحري في مقبرتك، فيمكنك تدمير بطاقة 1 في الملعب. \n(2): إذا كان خصمك يتحكم بوحش ضوء أو ظلام من نوع حراري أو بحري: فيمكنك استبعاد هذه البطاقة من مقبرتك، ثم استهدف وحشًا 1 يتحكم به خصمك؛ تحكم به حتى مرحلة النهاية. يمكنك فقط استخدام كل تأثير لـ\"العناصر الفوضوية\" مرة كل دور.",
       "s": [
         "Add 1 Level 5 or higher LIGHT or DARK Pyro or Aqua monster from your Deck or GY to your hand, then if you have 3 or more Pyro and/or Aqua monsters in your GY, you can destroy 1 card on the field.",
-        "Banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase."
+        "Banish this card from your GY, then target 1 monster your opponent controls; take control of it until the End Phase.",
+        "???"
       ]
     },
     {
@@ -98075,7 +98266,9 @@
       "id": 92501449,
       "n": "زئير التنين الخام",
       "d": "ادفع 2000 نقطة حياة وأعلن عن اسم وحش عادي 1؛ طبق هذا التأثير، ثم، إذا لم تكن تتحكم بأية وحوش، فيمكنك استدعاء وحش عادي 1 بنفس الاسم المعلن عليه بشكل خاص من مجموعتك في وضعية الدفاع. بعد تطبيق ذلك، وحوشك العادية بذلك الاسم المعلن ووحوشك \"التنين الخام\" لا يمكن تدميرهم في معركة حتى نهاية دور خصمك. إذا استدعى خصمك وحشاً بشكل عادي: يمكنك استبعاد هذه البطاقة من مقبرتك، ثم استهدف وحش عادي 1 تتحكم به أو في مقبرتك؛ استبعد وحشاً 1 في الملعب بنقاط هجوم أقل.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 92510265,
@@ -99100,7 +99293,8 @@
       "d": "(1) إذا كنت تتحكم بوحش من المستوى 4 أو أقل من نوع جني أو حيوان أو نباتي: فيمكنك استدعاء هذه البطاقة بشكل خاص من يدك.\n(2) وحش التزامن الذي استخدم هذه البطاقة كمادة يكسب هذين التأثيرين.\n● يكسب 500 نقطة دفاع.\n●لا يمكن لخصمك استهداف هذا الوحش في وضعية الدفاع بتأثيرات البطاقات.\nيمكنك فقط استخدام كل تأثير لـ\"ثعلبة الطعام والزراعة\" مرة كل دور.",
       "s": [
         "Special Summon this card from your hand.",
-        "● Gains 500 DEF.\n● Your opponent cannot target this Defense Position card with card effects."
+        "● Gains 500 DEF.\n● Your opponent cannot target this Defense Position card with card effects.",
+        "???"
       ]
     },
     {
@@ -99422,7 +99616,8 @@
       "d": "ضحِ بوحش تزامن 1، ثم استهدف بطاقة 1 مكشوفة في الملعب؛ ألغ تأثيراتها (حتى نهاية هذا الدور)، ثم، إذا ضَحيتَ بوحش تزامن \"الغابة البيضاء\" عند التفعيل، فيمكنك استدعاء وحش وهمي 1 بشكل خاص من مقبرتك. إذا تم إرسال هذه البطاقة إلى المقبرة لتفعيل تأثير وحش: يمكنك وضع هذه البطاقة محجوبة. يمكنك فقط استخدام كل تأثير لـ \"كارثة الغابة البيضاء\" مرة كل دور.",
       "s": [
         "Tribute 1 Synchro Monster, then target 1 face-up card on the field; negate its effects (until the end of this turn), then if you Tributed a \"White Forest\" Synchro Monster to activate this effect, you can Special Summon 1 Illusion monster from your GY.",
-        "Set this card."
+        "Set this card.",
+        "Special Summon 1 Illusion monster from your GY?"
       ]
     },
     {
@@ -99981,7 +100176,8 @@
       "n": "لوح المصير",
       "d": "عندما توضع هذه البطاقة وكل 4 بطاقات \"رسالة الروح\" بأسماء مختلفة في ملعبك، تفوز بالمبارزة. مرة كل دور، خلال مرحلة نهاية خصمك: ضع بطاقة 1 \"رسالة الروح\" من يدك أو مجموعتك في منطقة سحرك وفخك مكشوفة، بالترتيب الصحيح لـ\"ه\"، \"ا\"، \"ي\"، \"ة\". عندما تغادر بطاقة \"رسالة الروح\" أو \"لوح المصير\" تتحكم بها الملعب، أرسل كل بطاقات \"رسالة الروح\" و\"لوح المصير\" التي تتحكم بها إلى المقبرة.",
       "s": [
-        "Place 1 \"Spirit Message\" card"
+        "Place 1 \"Spirit Message\" card",
+        "???"
       ]
     },
     {
@@ -101143,7 +101339,9 @@
       "id": 95382988,
       "n": "وصايا التجديد",
       "d": "طبّق هذه التأثيرات على كل البطاقات التي يتحكم بها خصمك التي في نفس صف وحوش \"التجديد\" لك.\n● بطاقات مكشوفة: ألغ تأثيراتهم. \n● وحوش محجوبة: لا يمكنها تغيير وضعية معركتها. \n● سحر/فخ محجوبة: لا يمكن تفعيلها حتى نهاية الدور التالي.\nيمكنك فقط تفعيل 1 \"وصايا التجديد\" كل دور.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 95395761,
@@ -103297,7 +103495,9 @@
       "id": 97522863,
       "n": "الرجل ذو العلامة",
       "d": "(1) إذا تم استدعاؤه بشكل عادي أو خاص: يمكنك أخذ 1 \"معبد الملوك\"، أو سحر/فخ يتضمنه من مجموعتك، لتضيفه ليدك أو ترسله للمقبرة. يمكنك استخدام هذا التأثير لـ\"الرجل ذو العلامة\" مرة كل دور. \n(2)  بينما أنت تتحكم بـ\"معبد الملوك\"، فلا يمكن تدمير هذه البطاقة ولا وحوش \"آبوفيس\" التي تتحكم بها بمعركة أو بتأثيرات البطاقات.\n(3) لا يمكن تدمير \"معبد الملوك\" الذي تتحكم به بتأثيرات البطاقات.",
-      "s": []
+      "s": [
+        "???"
+      ]
     },
     {
       "id": 97526666,
@@ -103548,8 +103748,10 @@
       "n": "مسابقة التحديق",
       "d": "عندما تَستَدعِي وحش بشكل خاص إلى منطقة الوحوش الإضافية: يمكنك استهداف وحش 1 في منطقة وحوش خصمك الرئيسية؛ انقل ذلك الهدف إلى منطقته في نفس الصف كوحش منطقة الوحوش الإضافية. عندما يَستَدعِي خصمك وحش بشكل خاص إلى منطقة الوحوش الإضافية: يمكنك استهداف وحش 1 في منطقة وحوشك الرئيسية؛ انقل ذلك الهدف إلى منطقتك في نفس الصف كوحش منطقة الوحوش الإضافية. لا يمكن تفعيل هذه التأثيرات في خطوة الضرر",
       "s": [
-        "Move opponent's monster",
-        "Move your monster"
+        "Target 1 monster in your opponent's Main Monster Zone; move that target to their zone in the same column as that Extra Monster Zone monster.",
+        "Target 1 monster in your Main Monster Zone; move that target to your zone in the same column as that Extra Monster Zone monster.",
+        "Target 1 monster in your opponent's Main Monster Zone.",
+        "Target 1 monster in your Main Monster Zone.\n"
       ]
     },
     {
@@ -104883,7 +105085,8 @@
       "d": "يمكنك استبعاد 1 \"نائبة الإبداع - الزهرة\" من مقبرتك؛ استدعِ هذه البطاقة بشكل خاص من يدك. يمكنك دفع نقاط حياة بمضاعفات 500، ثم استهدف 1 من \"الكرة اللامعة الغامضة\" المستبعدة لك أو في مقبرتك لكل 500 نقطة حياة دفعتها؛ استدعهم بشكل خاص، لكن ضعهم أسفل المجموعة عندما يغادرون الملعب. يمكنك فقط استخدام تأثير 1 لـ\"نائبة الدمار - الزهرة\" كل دور، وفقط ذلك الدور.",
       "s": [
         "Banish 1 \"The Agent of Creation - Venus\" from your GY; Special Summon this card from your hand.",
-        "Pay LP in multiples of 500, then for every 500 LP paid, target 1 of your \"Mystical Shine Ball\" that is banished or in your GY; Special Summon them."
+        "Pay LP in multiples of 500, then for every 500 LP paid, target 1 of your \"Mystical Shine Ball\" that is banished or in your GY; Special Summon them.",
+        "???"
       ]
     },
     {
@@ -105073,7 +105276,9 @@
       "id": 99217226,
       "n": "نصيرا الروابط والاتحاد ",
       "d": "متناغم 1 + وحش غير متناغم 1 أو أكثر بـ 2500 نقطة هجوم ودفاع أصلية\n(1) لا يمكن تدمير هذه البطاقة المستدعاة بالتزامن بتأثيرات بطاقات خصمك، أيضا لا يمكن استهداف هذه البطاقة المستدعاة بالتزامن بتأثيرات البطاقات. (2) بينما أنت تملك 25 بطاقة أو أكثر في مقبرتك، تكسب هذه البطاقة المستدعاة بالتزامن 100 نقطة هجوم/دفاع لكل بطاقة في الملعب والمقابر. (3) مرة كل دور، عند تفعيل بطاقة سحر وخصمك يملك 25 بطاقة أو أكثر في مقبرته (تأثير سريع): يمكنك إلغاء التفعيل، وإذا فعلت، فدمر تلك البطاقة.",
-      "s": []
+      "s": [
+        "Negate the activation, and if you do, destroy that card."
+      ]
     },
     {
       "id": 99229085,
